@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YouTube 인기 동영상</title>
+    <style>
+        .video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .video-card {
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .thumbnail {
+            width: 100%;
+            cursor: pointer;
+        }
+        .video-title {
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        .video-title a {
+            color: #000;
+            text-decoration: none;
+        }
+        .channel-title {
+            color: #606060;
+        }
+        .view-count {
+            color: #606060;
+        }
+        .video-info {
+            color: #606060;
+            font-size: 0.9em;
+        }
+        .video-info span:not(:last-child)::after {
+            content: "•";
+            margin: 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>YouTube 인기 동영상</h1>
+    <div class="video-grid">
+        {% for video in videos %}
+            <div class="video-card">
+                <img src="{{ video.thumbnail_url }}" class="thumbnail" 
+                    onclick="playVideo('{{ video.video_id }}')" alt="{{ video.title }}">
+                <div class="video-title">
+                    <a href="https://www.youtube.com/watch?v={{ video.video_id }}" target="_blank">
+                        {{ video.title }}
+                    </a>
+                </div>
+                <div class="channel-title">{{ video.channel_title }}</div>
+                <div class="video-info">
+                    <span class="view-count">조회수 {{ video.format_view_count }}</span>
+                    <span class="upload-date">{{ video.format_published_time }}</span>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <div id="video-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8);">
+        <div style="position: relative; width: 80%; height: 80%; margin: 5% auto;">
+            <button onclick="closeVideo()" style="position: absolute; right: 0; top: -30px; background: white;">닫기</button>
+            <iframe id="video-frame" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <script>
+        function playVideo(videoId) {
+            document.getElementById('video-frame').src = `https://www.youtube.com/embed/${videoId}`;
+            document.getElementById('video-modal').style.display = 'block';
+        }
+
+        function closeVideo() {
+            document.getElementById('video-frame').src = '';
+            document.getElementById('video-modal').style.display = 'none';
+        }
+    </script>
+</body>
+</html> 
