@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Steam 게임</title>
+    <style>
+        .game-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .game-card {
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 8px;
+            background: #1b2838;
+            color: #c7d5e0;
+            text-decoration: none;
+            transition: transform 0.2s;
+        }
+        .game-card:hover {
+            transform: translateY(-5px);
+        }
+        .game-image {
+            width: 100%;
+            border-radius: 4px;
+        }
+        .game-title {
+            margin: 10px 0;
+            font-size: 1.1em;
+            text-align: center;
+            color: #c7d5e0;
+        }
+    </style>
+</head>
+<body style="background: #171d25; margin: 0;">
+    <h1 style="color: #c7d5e0; text-align: center; padding: 20px;">Steam 게임</h1>
+    <div class="game-grid">
+        {% for game in games %}
+            <a href="{% url 'game_detail' game.app_id %}" class="game-card">
+                <img src="{{ game.header_image }}" class="game-image" alt="{{ game.name }}">
+                <div class="game-title">{{ game.name }}</div>
+            </a>
+        {% endfor %}
+    </div>
+</body>
+</html> 

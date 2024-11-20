@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "videos",
+    "steam_game",
 ]
 
 MIDDLEWARE = [
@@ -77,8 +78,12 @@ WSGI_APPLICATION = "youtube_trend.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+        "ENGINE": "djongo",
+        "NAME": "steam_test",
+        "ENFORCE_SCHEMA": False,
+        "CLIENT": {
+            "host": "mongodb://localhost:27017/steam_test"
+        }
     }
 }
 

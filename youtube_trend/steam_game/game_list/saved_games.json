@@ -1,0 +1,2803 @@
+[
+    {
+        "type": "game",
+        "name": "Purrfect Apawcalypse: Love at Furst Bite",
+        "steam_appid": 1532510,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<p class=\"bb_paragraph\"><i>Olive the mutt finds themself trapped in Hachiko High School during the apocalypse! Demons have been slaughtering their classmates and they're certain it's inevitable that they too will meet their untimely end... Which means there's only so many dogs left to spend their last moments with!  </i></p><p class=\"bb_paragraph\"><i>Join Olive in their grisly search for a special someone! Will it be Brownie the snack-loving corgi, Sparky the sporty husky or Patches the dalmatian bookworm? It's all up to you!</i> </p><p class=\"bb_paragraph\"><strong>This game contains cartoon gore, bifurcated dogs, headless dogs, generally dogs not having a great time, along with strong language and mature themes. Recommended for ages 15+, play at your own discretion! </strong> </p><p class=\"bb_paragraph\">Purrfect Apawcalypse is a dark comedy interactive fiction about dogs, cats and the apocalypse. The places you go, characters you meet and choices you make will lead you either to death or happiness, so choose wisely! </p><p class=\"bb_paragraph\"><strong>This game is a trilogy! Play them in this order!</strong> </p><p class=\"bb_paragraph\"> 1. Love at Furst Bite</p><p class=\"bb_paragraph\">2. Purrgatory Furever</p><p class=\"bb_paragraph\">3. Patches' Infurno</p>",
+        "about_the_game": "<p class=\"bb_paragraph\"><i>Olive the mutt finds themself trapped in Hachiko High School during the apocalypse! Demons have been slaughtering their classmates and they're certain it's inevitable that they too will meet their untimely end... Which means there's only so many dogs left to spend their last moments with!  </i></p><p class=\"bb_paragraph\"><i>Join Olive in their grisly search for a special someone! Will it be Brownie the snack-loving corgi, Sparky the sporty husky or Patches the dalmatian bookworm? It's all up to you!</i> </p><p class=\"bb_paragraph\"><strong>This game contains cartoon gore, bifurcated dogs, headless dogs, generally dogs not having a great time, along with strong language and mature themes. Recommended for ages 15+, play at your own discretion! </strong> </p><p class=\"bb_paragraph\">Purrfect Apawcalypse is a dark comedy interactive fiction about dogs, cats and the apocalypse. The places you go, characters you meet and choices you make will lead you either to death or happiness, so choose wisely! </p><p class=\"bb_paragraph\"><strong>This game is a trilogy! Play them in this order!</strong> </p><p class=\"bb_paragraph\"> 1. Love at Furst Bite</p><p class=\"bb_paragraph\">2. Purrgatory Furever</p><p class=\"bb_paragraph\">3. Patches' Infurno</p>",
+        "short_description": "Olive is trapped in school in the midst of the apocalypse! With demons slaughtering every dog in sight there's only so many left to spend time with! Will their special someone be Brownie the snack-loving corgi, Sparky the sporty husky or Patches the dalmatian bookworm? You decide!",
+        "supported_languages": "English, Portuguese - Brazil, Simplified Chinese, Polish, Korean, Spanish - Spain, Japanese",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/header.jpg?t=1730837338",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/capsule_231x87.jpg?t=1730837338",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/capsule_184x69.jpg?t=1730837338",
+        "website": "https://linktr.ee/90percentdenny",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 128 MB RAM<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6 or above<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 128 MB RAM<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+        },
+        "linux_requirements": [],
+        "developers": [
+            "Denny Truong",
+            "Andy Schneider"
+        ],
+        "publishers": [
+            "90% Studios"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 560000,
+            "final": 560000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 5,600"
+        },
+        "packages": [
+            540871
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Purrfect Apawcalypse: Love at Furst Bite",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540871,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Purrfect Apawcalypse: Love at Furst Bite - ₩ 5,600",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 560000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_39cfdc2005a66bab05301edf0246d6a8606c29a9.600x338.jpg?t=1730837338",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_39cfdc2005a66bab05301edf0246d6a8606c29a9.1920x1080.jpg?t=1730837338"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_c035c5228a056d1cd07046089dc621b899e153ee.600x338.jpg?t=1730837338",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_c035c5228a056d1cd07046089dc621b899e153ee.1920x1080.jpg?t=1730837338"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_1e6f28e307ae9bfb76ae80b5b504e4104c23419f.600x338.jpg?t=1730837338",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_1e6f28e307ae9bfb76ae80b5b504e4104c23419f.1920x1080.jpg?t=1730837338"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_cc90abc111f873d9808eb5c2287949052245a73e.600x338.jpg?t=1730837338",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_cc90abc111f873d9808eb5c2287949052245a73e.1920x1080.jpg?t=1730837338"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_e41cc83cbece903dcdb725f084a4b2618efd701b.600x338.jpg?t=1730837338",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/ss_e41cc83cbece903dcdb725f084a4b2618efd701b.1920x1080.jpg?t=1730837338"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256820442,
+                "name": "Purrfect Apawcalypse: Love at Furst Bite Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256820442/movie.293x165.jpg?t=1612303482",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256820442/movie480_vp9.webm?t=1612303482",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256820442/movie_max_vp9.webm?t=1612303482"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256820442/movie480.mp4?t=1612303482",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256820442/movie_max.mp4?t=1612303482"
+                },
+                "highlight": true
+            }
+        ],
+        "recommendations": {
+            "total": 614
+        },
+        "achievements": {
+            "total": 23,
+            "highlighted": [
+                {
+                    "name": "Two Heads Are Better Than One",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/d5336520a0b78fdc6865a08d89fb532be3300c01.jpg"
+                },
+                {
+                    "name": "Cat Got Your Lung",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/5cc931303d5144ff343f7ad0b5e50364d79705f9.jpg"
+                },
+                {
+                    "name": "Paw and Order",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/a147e53034b96ddd9b4314d115a288c822902be2.jpg"
+                },
+                {
+                    "name": "Stupid Dog",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/642efa68bb0029af5f4d5452072304f19cf44245.jpg"
+                },
+                {
+                    "name": "Dumped",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/6d9127ee4b9c2c3752f2ccfa2a55976e157f2d2e.jpg"
+                },
+                {
+                    "name": "Cut Throat",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/bad40d2b35d6abbdf33bc9915db21af6971fbc9b.jpg"
+                },
+                {
+                    "name": "Not the Sharpest",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/603f91c0d42bbad8b8a18079e3fe03d2dd1c8f3f.jpg"
+                },
+                {
+                    "name": "Short but Sweet",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/65f9758939f1cec849f090af90a33a9d457539aa.jpg"
+                },
+                {
+                    "name": "Death by Chocolate",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/1a8b1c35b90dbea749696cd06e8ec2910bbd6544.jpg"
+                },
+                {
+                    "name": "Sugar Craving",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532510/f2d565fd45c938a611d3a77e13cb663bcd706f98.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "16 Feb, 2021"
+        },
+        "support_info": {
+            "url": "https://www.ninetypercentstudios.com/",
+            "email": "contact@90percentstudios.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/page_bg_generated_v6b.jpg?t=1730837338",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532510/page.bg.jpg?t=1730837338",
+        "content_descriptors": {
+            "ids": [
+                2,
+                5
+            ],
+            "notes": "Trigger warnings include cartoon gore, bifurcated dogs, headless dogs, generally dogs not having a great time. Play at your own discretion!"
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "18",
+                "descriptors": "Violência Extrema\r\nTemas sensíveis\r\nLinguagem imprópria",
+                "use_age_gate": "true",
+                "required_age": "18"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "18",
+                "required_age": "18",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Drastische Gewalt"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "Day Repeat Day",
+        "steam_appid": 1532520,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "Day Repeat Day is an interactive story and a match-3 game that takes you through the years in a life of an average person. You're hired to do a job. You try to manage your relationships. But you're never really sure where it's all leading to. It's a story about living, the daily grind and what it all means in the end, topped with a sprinkle of satire and mysteries.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/extras/drd_steam_sell.gif?t=1731563699\" /><br><br>After doing a lot of action games, I wanted to do something much more intimate and personal and Day Repeat Day is what came of it. I hope you find it a meaningful experience!",
+        "about_the_game": "Day Repeat Day is an interactive story and a match-3 game that takes you through the years in a life of an average person. You're hired to do a job. You try to manage your relationships. But you're never really sure where it's all leading to. It's a story about living, the daily grind and what it all means in the end, topped with a sprinkle of satire and mysteries.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/extras/drd_steam_sell.gif?t=1731563699\" /><br><br>After doing a lot of action games, I wanted to do something much more intimate and personal and Day Repeat Day is what came of it. I hope you find it a meaningful experience!",
+        "short_description": "Day Repeat Day is a story based match-3 game about life, work and the meaning of it all.",
+        "supported_languages": "English",
+        "reviews": "“I think it’s precisely because such heavy topics are tackled by way of something as banal as a match-3 game that makes me love Day Repeat Day so much.”<br>Game of the Week – Touch Arcade<br><br>“It turns out to be much, much more than this, than either genre, a whole, complicated and unique creation, that speaks truth about life, about work, about hierarchies and about mistakes. It’s stunning.”<br>Kotaku<br>",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/header.jpg?t=1731563699",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/capsule_231x87.jpg?t=1731563699",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/capsule_184x69.jpg?t=1731563699",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or newer<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DX 11 compatible<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "legal_notice": "Copyright 2024 Kimmo Factor Oy",
+        "developers": [
+            "Kimmo Lahtinen"
+        ],
+        "publishers": [
+            "Kimmo Factor Oy"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 890000,
+            "final": 890000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 8,900"
+        },
+        "packages": [
+            540874
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Day Repeat Day",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540874,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Day Repeat Day - ₩ 8,900",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 890000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_0c6fed611201fb3ba3e0b408d354bc8e6e5a66fd.600x338.jpg?t=1731563699",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_0c6fed611201fb3ba3e0b408d354bc8e6e5a66fd.1920x1080.jpg?t=1731563699"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_4a40ac24acd4c2ed251425859393063a43e2d2ef.600x338.jpg?t=1731563699",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_4a40ac24acd4c2ed251425859393063a43e2d2ef.1920x1080.jpg?t=1731563699"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_8d8c80b5ddec250d4a95355b370c0a49f5c2ed34.600x338.jpg?t=1731563699",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_8d8c80b5ddec250d4a95355b370c0a49f5c2ed34.1920x1080.jpg?t=1731563699"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_1d02a823f310fa88d34bea89f8572527aaa529ba.600x338.jpg?t=1731563699",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_1d02a823f310fa88d34bea89f8572527aaa529ba.1920x1080.jpg?t=1731563699"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_42348f7fd0bde32b22eb356604c3c75b9de99ec3.600x338.jpg?t=1731563699",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/ss_42348f7fd0bde32b22eb356604c3c75b9de99ec3.1920x1080.jpg?t=1731563699"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256821811,
+                "name": "Trailer 1",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256821811/movie.293x165.jpg?t=1616661653",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256821811/movie480_vp9.webm?t=1616661653",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256821811/movie_max_vp9.webm?t=1616661653"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256821811/movie480.mp4?t=1616661653",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256821811/movie_max.mp4?t=1616661653"
+                },
+                "highlight": true
+            }
+        ],
+        "achievements": {
+            "total": 12,
+            "highlighted": [
+                {
+                    "name": "The First Day",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "Another Day",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "A Day More",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "Days Go By",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "Again Another Day",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "And Another Day",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "Dedicated",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "Workaholic",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "In Contact",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                },
+                {
+                    "name": "Process Completed",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532520/b8e45cfbff614426dc883eaca34dbd38599830b2.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "13 Apr, 2021"
+        },
+        "support_info": {
+            "url": "http://www.gimblll.com",
+            "email": ""
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/page_bg_generated_v6b.jpg?t=1731563699",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532520/page.bg.jpg?t=1731563699",
+        "content_descriptors": {
+            "ids": [
+                5
+            ],
+            "notes": "Includes swearing as well as mature themes"
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "14",
+                "descriptors": "Violência\r\nMedo\r\nLinguagem imprópria",
+                "use_age_gate": "true",
+                "required_age": "14"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "6",
+                "required_age": "6",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Derbe Sprache"
+            }
+        }
+    },
+    {
+        "type": "demo",
+        "name": "Confessions Demo",
+        "steam_appid": 1532600,
+        "required_age": 0,
+        "is_free": true,
+        "detailed_description": "",
+        "about_the_game": "",
+        "short_description": "",
+        "fullgame": {
+            "appid": "1400700",
+            "name": "Confessions"
+        },
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532600/header.jpg?t=1612269337",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532600/capsule_231x87.jpg?t=1612269337",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532600/capsule_184x69.jpg?t=1612269337",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "developers": [
+            "Peace & Love Games"
+        ],
+        "publishers": [
+            "Peace & Love Games"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 10,
+                "description": "Game demo"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "2 Feb, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "hi@patrick-seibert.com"
+        },
+        "background": "",
+        "background_raw": "",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": null
+    },
+    {
+        "type": "game",
+        "name": "El Mucho",
+        "steam_appid": 1532640,
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "detailed_description": "<strong>Epic world</strong><br>The world is being attacked! Liberika, a world hidden behind huge hills and endless rivers. A world full of secrets, populated by Luchadores, a noble race filled with pride, whose world is fulfilled  by fistfights. Born in masks they reflect strength and heritage. Protect their world together with prince El Mucho!<br><br><strong>Class System</strong><br>If the Luchadores gained enough experience, they can choose different paths. Even if the fistfight is the highest form, there is also magic and weapons to explore in their world of Liberika. Choose wisely between the different options of promotion!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/ElMuchoTypes.png?t=1666983672\" /><br><br><br><strong>Nerve wracking fights</strong><br>Enjoy the epic fights between the Luchadores and the nasty monsters.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/Fight.gif?t=1666983672\" /><br><br><strong>Magic</strong><br>If a fist is not enough, then magic might help. Some chosen ones are able to master the secret art of magic.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/magic.gif?t=1666983672\" /><br><br><strong>Oscar worthy dialogs</strong><br>Experience the nerve wracking adventures of El Mucho in high class dialogs. Everything available in English, German or Spanish.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/dialogs.gif?t=1666983672\" /><br><br><strong>And many more</strong><br>Experience 16 extensive missions and try to solve the mysterious attacks on Liberika. Quickly hurry up, before the king is dethroned and the entire land will fall apart.",
+        "about_the_game": "<strong>Epic world</strong><br>The world is being attacked! Liberika, a world hidden behind huge hills and endless rivers. A world full of secrets, populated by Luchadores, a noble race filled with pride, whose world is fulfilled  by fistfights. Born in masks they reflect strength and heritage. Protect their world together with prince El Mucho!<br><br><strong>Class System</strong><br>If the Luchadores gained enough experience, they can choose different paths. Even if the fistfight is the highest form, there is also magic and weapons to explore in their world of Liberika. Choose wisely between the different options of promotion!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/ElMuchoTypes.png?t=1666983672\" /><br><br><br><strong>Nerve wracking fights</strong><br>Enjoy the epic fights between the Luchadores and the nasty monsters.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/Fight.gif?t=1666983672\" /><br><br><strong>Magic</strong><br>If a fist is not enough, then magic might help. Some chosen ones are able to master the secret art of magic.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/magic.gif?t=1666983672\" /><br><br><strong>Oscar worthy dialogs</strong><br>Experience the nerve wracking adventures of El Mucho in high class dialogs. Everything available in English, German or Spanish.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/extras/dialogs.gif?t=1666983672\" /><br><br><strong>And many more</strong><br>Experience 16 extensive missions and try to solve the mysterious attacks on Liberika. Quickly hurry up, before the king is dethroned and the entire land will fall apart.",
+        "short_description": "El Mucho is a round based tactical RPG in a fiction world called Liberika. It is inspired by old classics like Langrisser aka Warsong. El Mucho is all about protecting the world from the attacks of the nasty monsters.",
+        "supported_languages": "English, German, Spanish - Spain",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/header.jpg?t=1666983672",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/capsule_231x87.jpg?t=1666983672",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/capsule_184x69.jpg?t=1666983672",
+        "website": "https://lobothedark.itch.io/el-mucho",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 or AMD Ryzen 3<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 960 or similar<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i7 or AMD Ryzen 5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 1060 or higher<br></li><li><strong>Storage:</strong> 1000 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "legal_notice": "<strong>Universal-LPC-spritesheet</strong><br>Characters based on Universal-LPC-spritesheet and will be published under the CC-BY-SA 3.0 License.<br><br><strong>Liberated Pixel Cup styleguide</strong><br>Environment based on Liberated Pixel Cup styleguide and will be published under the CC-BY-SA 3.0 License.<br><br><strong>OpenGameArt</strong><br>Many Sprites (Effects, Magic, GUI, etc.) is based on \"OpenGameArt\" projects and will be published under the CC-BY-SA 3.0 License.<br><br><strong>Fonts</strong><br>Fonts are used from 1001Fonts and will be published under the 1001Fonts Free For Commercial Use License (FFC) License.<br><br><strong>Map Generation</strong><br>Map is generated with this open source project \"Fantasy-Map-Generator\" and will be published under the MIT License.<br><br><strong>Music</strong><br>Creative Commons Music by Jason Shaw on <br><br>For more information see the Game Website",
+        "developers": [
+            "Andreas Dahm"
+        ],
+        "publishers": [
+            "Lobo Corp."
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 850000,
+            "final": 850000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 8,500"
+        },
+        "packages": [
+            540911
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy El Mucho",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540911,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "El Mucho - ₩ 8,500",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 850000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_93ea17c8e1224f9d02aa63b0c2aeae9aed7a27bc.600x338.jpg?t=1666983672",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_93ea17c8e1224f9d02aa63b0c2aeae9aed7a27bc.1920x1080.jpg?t=1666983672"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_0b0c7e57520220b52c321d5998cfd32c00d015e0.600x338.jpg?t=1666983672",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_0b0c7e57520220b52c321d5998cfd32c00d015e0.1920x1080.jpg?t=1666983672"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_da4b5b807b472e569b66eed8f919b03060adb194.600x338.jpg?t=1666983672",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_da4b5b807b472e569b66eed8f919b03060adb194.1920x1080.jpg?t=1666983672"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_b5eafcfbc568697ce29214c851234b141e58176b.600x338.jpg?t=1666983672",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/ss_b5eafcfbc568697ce29214c851234b141e58176b.1920x1080.jpg?t=1666983672"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256874964,
+                "name": "Release Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256874964/movie.293x165.jpg?t=1645469746",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256874964/movie480_vp9.webm?t=1645469746",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256874964/movie_max_vp9.webm?t=1645469746"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256874964/movie480.mp4?t=1645469746",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256874964/movie_max.mp4?t=1645469746"
+                },
+                "highlight": true
+            }
+        ],
+        "achievements": {
+            "total": 21,
+            "highlighted": [
+                {
+                    "name": "Yeey! El Mucho found",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/3d5a5cc5e9fb59efcad2aa170a0053d2b2307e42.jpg"
+                },
+                {
+                    "name": "El Caballero has joined you",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/0a9881ffc93b31ce8381d2c730eb24fc7ce61576.jpg"
+                },
+                {
+                    "name": "El Merica is here",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/f2cec853e7fae719c92b3f7f86043dc43944b690.jpg"
+                },
+                {
+                    "name": "El Magico has joined the group",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/81994f69fe8585189b2602dafcd96a4e473f8a17.jpg"
+                },
+                {
+                    "name": "La Santa, the saint, is here",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/bef7d79254211203cea953570b9988a39703089c.jpg"
+                },
+                {
+                    "name": "Act 1 - DONE",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/48aef6177e2c9b319595af207068a75dab56c233.jpg"
+                },
+                {
+                    "name": "Act 2 - DONE",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/388bbd883231582c429e3ebb1da78566ca08b3c2.jpg"
+                },
+                {
+                    "name": "End of the slime",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/785b6e35408be6449d2f321b3267b9128bc799ac.jpg"
+                },
+                {
+                    "name": "El Muerto is defeated!",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/2767bed1d6e4050754e740c72cef87373746a25f.jpg"
+                },
+                {
+                    "name": "El Muerto is defeated, again!",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532640/1704d29ae5266c22c7c45059b4e9f6b78fbba2e0.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "20 Feb, 2022"
+        },
+        "support_info": {
+            "url": "",
+            "email": "andreas.dahm@gmail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/page_bg_generated_v6b.jpg?t=1666983672",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532640/page.bg.jpg?t=1666983672",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "14",
+                "required_age": "14",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Linguagem imprópria\nViolência fantasiosa"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "6",
+                "required_age": "6",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Derbe Sprache\nFantasy-Gewalt"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "fishy",
+        "steam_appid": 1532650,
+        "required_age": 0,
+        "is_free": true,
+        "detailed_description": "Fishy is a short, heartfelt visual novel about friends, enemies, acceptance, and monsters.<br><br>Play as a middle schooler with a prosthetic arm, navigating fear and friendship. Explore the aquarium, face your fears, and maybe even make a friend.<br><br>Fishy features 583 individual hand-drawn sea creatures and an atmospheric original score.<br><br>A lovingly crafted bite-sized journey, Fishy is best experienced when played in one sitting (roughly 30 minutes).<h2 class=\"bb_tag\"><strong>Features: </strong></h2><ul class=\"bb_ul\"><li> roughly 30 minute story<br></li><li> 583 unique hand drawn sea animals<br></li><li> original soundtrack<br></li><li> sharks<br></li><li> &quot;sharks&quot;<br></li><li> sparkling water (flavors: cherry, grapefruit, citrus)<br></li><li> 4 unique  f̶͙͈͕̾ǐ̸̢͉̹͇̕ʎ𝐬𝓗 𝕄𝕆几𝐬Ｔ(˥ʎ ᙠe̶͕̰̥̹̊̐m̴̭̋̽̚̚Ѳψㄣ</li></ul><h2 class=\"bb_tag\">**Please note that this game contains the following elements**</h2><br><ul class=\"bb_ul\"><li>pg-13 levels of psychological horror related to feelings of anxiety<br></li><li>body horror for humans and animals<br></li><li>loud noises</li></ul>This game does not contain jumpscares, but does feature visuals that some players may find disturbing.",
+        "about_the_game": "Fishy is a short, heartfelt visual novel about friends, enemies, acceptance, and monsters.<br><br>Play as a middle schooler with a prosthetic arm, navigating fear and friendship. Explore the aquarium, face your fears, and maybe even make a friend.<br><br>Fishy features 583 individual hand-drawn sea creatures and an atmospheric original score.<br><br>A lovingly crafted bite-sized journey, Fishy is best experienced when played in one sitting (roughly 30 minutes).<h2 class=\"bb_tag\"><strong>Features: </strong></h2><ul class=\"bb_ul\"><li> roughly 30 minute story<br></li><li> 583 unique hand drawn sea animals<br></li><li> original soundtrack<br></li><li> sharks<br></li><li> &quot;sharks&quot;<br></li><li> sparkling water (flavors: cherry, grapefruit, citrus)<br></li><li> 4 unique  f̶͙͈͕̾ǐ̸̢͉̹͇̕ʎ𝐬𝓗 𝕄𝕆几𝐬Ｔ(˥ʎ ᙠe̶͕̰̥̹̊̐m̴̭̋̽̚̚Ѳψㄣ</li></ul><h2 class=\"bb_tag\">**Please note that this game contains the following elements**</h2><br><ul class=\"bb_ul\"><li>pg-13 levels of psychological horror related to feelings of anxiety<br></li><li>body horror for humans and animals<br></li><li>loud noises</li></ul>This game does not contain jumpscares, but does feature visuals that some players may find disturbing.",
+        "short_description": "Fishy is a heartfelt visual novel about friends, enemies, acceptance, and monsters. Explore the aquarium, face your fears, and maybe make a friend. here fishy fishy f̵̥͘͠i̷̱͉͋͑s̵͙̈͘h̵͖̅y̶̜͘",
+        "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/header.jpg?t=1629491892",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/capsule_231x87.jpg?t=1629491892",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/capsule_184x69.jpg?t=1629491892",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista or higher.<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 or DirectX 9.0c<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10+<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo (64 bit only)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+<br></li><li><strong>Processor:</strong> 2.0 GHz Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>"
+        },
+        "developers": [
+            "I Choose Paradise"
+        ],
+        "publishers": [
+            "I Choose Paradise"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "37",
+                "description": "Free To Play"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "28",
+                "description": "Simulation"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_473dd21555e4bbc44e8c326b8d20b85ada212910.600x338.jpg?t=1629491892",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_473dd21555e4bbc44e8c326b8d20b85ada212910.1920x1080.jpg?t=1629491892"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_bbc276fd237b49eae0fd75ddcb09b058a3ef141a.600x338.jpg?t=1629491892",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_bbc276fd237b49eae0fd75ddcb09b058a3ef141a.1920x1080.jpg?t=1629491892"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_b13783501a7a7c9279c268f6f3878aad03c3ae98.600x338.jpg?t=1629491892",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_b13783501a7a7c9279c268f6f3878aad03c3ae98.1920x1080.jpg?t=1629491892"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_4da4ced2a5964141cd3f30f4ebb394956ed1b802.600x338.jpg?t=1629491892",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_4da4ced2a5964141cd3f30f4ebb394956ed1b802.1920x1080.jpg?t=1629491892"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_86b8bb0fa2db3ff68da530e34072bddea2113f08.600x338.jpg?t=1629491892",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/ss_86b8bb0fa2db3ff68da530e34072bddea2113f08.1920x1080.jpg?t=1629491892"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256831744,
+                "name": "Cinematic Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831744/movie.293x165.jpg?t=1627517813",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256831744/movie480_vp9.webm?t=1627517813",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256831744/movie_max_vp9.webm?t=1627517813"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256831744/movie480.mp4?t=1627517813",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256831744/movie_max.mp4?t=1627517813"
+                },
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "20 Aug, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "ichooseparadise@gmail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/page_bg_generated_v6b.jpg?t=1629491892",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532650/page.bg.jpg?t=1629491892",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "14",
+                "required_age": "14",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência\nMedo"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "16",
+                "required_age": "16",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Horror"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "The Damathos Clan",
+        "steam_appid": 1532680,
+        "required_age": 0,
+        "is_free": false,
+        "dlc": [
+            1551380
+        ],
+        "detailed_description": "<h2 class=\"bb_tag\">SUMMARY:</h2><br>This is a new classic old-school RPG by Valkyria Games, already behind such hits as Valiant: Resurrection and IronBorn.<br><br>The Damathos Clan is a family entrusted with protecting the world with their magical powers. A new menace approaches on the horizon, not only against the world they know, but against many other worlds they didn't even knew existed.<br><br>Travel across different islands, continents and worlds while in the journey to stop this threat and fulfill your duty as a Damathos!<h2 class=\"bb_tag\">FEATURES:</h2><br>    Dynamic Party System!<br>    Dozens of skills to master and use!<br>    Different worlds to explore!<br>    A Special Dungeon filled with goodies!<br>    Charismatic party members!<h2 class=\"bb_tag\">MORE GAMES FROM VALKYRIA</h2><br><br><br><br><br>",
+        "about_the_game": "<h2 class=\"bb_tag\">SUMMARY:</h2><br>This is a new classic old-school RPG by Valkyria Games, already behind such hits as Valiant: Resurrection and IronBorn.<br><br>The Damathos Clan is a family entrusted with protecting the world with their magical powers. A new menace approaches on the horizon, not only against the world they know, but against many other worlds they didn't even knew existed.<br><br>Travel across different islands, continents and worlds while in the journey to stop this threat and fulfill your duty as a Damathos!<h2 class=\"bb_tag\">FEATURES:</h2><br>    Dynamic Party System!<br>    Dozens of skills to master and use!<br>    Different worlds to explore!<br>    A Special Dungeon filled with goodies!<br>    Charismatic party members!<h2 class=\"bb_tag\">MORE GAMES FROM VALKYRIA</h2><br><br><br><br><br>",
+        "short_description": "Travel across different islands, continents and worlds while in the journey to stop a deadly threat and fulfill your duty as a Damathos!",
+        "supported_languages": "English",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/header.jpg?t=1730471191",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/capsule_231x87.jpg?t=1730471191",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/capsule_184x69.jpg?t=1730471191",
+        "website": "https://www.aldorlea.org/",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0 Compatible Sound</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "Valkyria Games"
+        ],
+        "publishers": [
+            "Valkyria Games"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 780000,
+            "final": 780000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 7,800"
+        },
+        "packages": [
+            540926
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy The Damathos Clan",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540926,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "The Damathos Clan - ₩ 7,800",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 780000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 18,
+                "description": "Partial Controller Support"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_9ded540453e0e9885146c635f055bad422915093.600x338.jpg?t=1730471191",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_9ded540453e0e9885146c635f055bad422915093.1920x1080.jpg?t=1730471191"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_ca54acbc93a2fab459c799fda4ce649bcaaf3248.600x338.jpg?t=1730471191",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_ca54acbc93a2fab459c799fda4ce649bcaaf3248.1920x1080.jpg?t=1730471191"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_b0bd0f265e145b9ac48a69f08b531efdd43d97e2.600x338.jpg?t=1730471191",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_b0bd0f265e145b9ac48a69f08b531efdd43d97e2.1920x1080.jpg?t=1730471191"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_45b0639cd9bdb4ac75c00d0b0f0149acf4e98b35.600x338.jpg?t=1730471191",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_45b0639cd9bdb4ac75c00d0b0f0149acf4e98b35.1920x1080.jpg?t=1730471191"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_5f3c19d8092416de9e10e2230836fe5f563fa194.600x338.jpg?t=1730471191",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/ss_5f3c19d8092416de9e10e2230836fe5f563fa194.1920x1080.jpg?t=1730471191"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256819783,
+                "name": "The Damathos Clan",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819783/movie.293x165.jpg?t=1611688350",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256819783/movie480_vp9.webm?t=1611688350",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256819783/movie_max_vp9.webm?t=1611688350"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256819783/movie480.mp4?t=1611688350",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256819783/movie_max.mp4?t=1611688350"
+                },
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 Feb, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "aldorlea@googlemail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/page_bg_generated_v6b.jpg?t=1730471191",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532680/page_bg_generated.jpg?t=1730471191",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "l",
+                "descriptors": "Violência fantasiosa"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "6",
+                "required_age": "6",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Fantasy-Gewalt"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "BLACKTAIL",
+        "steam_appid": 1532690,
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": [
+            2238480
+        ],
+        "detailed_description": "Become the guardian of the woods or the terror nightmares are made of. Forge the legend of Baba Yaga and live out its origins in BLACKTAIL, a one-of-a-kind blend of intense archery combat, magic and dark storytelling set in a vibrant fairy tale world.<br><br>You play as Yaga, a 16-year-old girl accused of witchcraft and expelled from a medieval Slavic settlement. When living memories of your past return as foul, walking spirits, you are left with no other option than to hunt them down in hopes of unravelling your own mystery.<br><br><ul class=\"bb_ul\"><li>Decide the fate of the land and its inhabitants, witness the impact of your decisions on your skills through BLACKTAIL’s Morality system.<br></li><li>Track down elusive spirits with your trusty bow and gauntlet, engage in thrilling boss fights.<br></li><li>Craft arrows and potions, hunt wild game, and gather resources to survive in the ominous woods.<br></li><li>Find hidden treasures to learn more about your surroundings and history.<br></li><li>Collect lost recipes and brew elixirs to improve your abilities and shape your playstyle.</li></ul>",
+        "about_the_game": "Become the guardian of the woods or the terror nightmares are made of. Forge the legend of Baba Yaga and live out its origins in BLACKTAIL, a one-of-a-kind blend of intense archery combat, magic and dark storytelling set in a vibrant fairy tale world.<br><br>You play as Yaga, a 16-year-old girl accused of witchcraft and expelled from a medieval Slavic settlement. When living memories of your past return as foul, walking spirits, you are left with no other option than to hunt them down in hopes of unravelling your own mystery.<br><br><ul class=\"bb_ul\"><li>Decide the fate of the land and its inhabitants, witness the impact of your decisions on your skills through BLACKTAIL’s Morality system.<br></li><li>Track down elusive spirits with your trusty bow and gauntlet, engage in thrilling boss fights.<br></li><li>Craft arrows and potions, hunt wild game, and gather resources to survive in the ominous woods.<br></li><li>Find hidden treasures to learn more about your surroundings and history.<br></li><li>Collect lost recipes and brew elixirs to improve your abilities and shape your playstyle.</li></ul>",
+        "short_description": "Forge the legend of Baba Yaga, a girl accused of witchcraft and expelled from her home. Live out the origins of the Slavic myth in this one-of-a-kind blend of intense archery combat and dark storytelling set in a vibrant fairy tale world.",
+        "supported_languages": "English<strong>*</strong>, Polish, French, Italian, German, Spanish - Spain, Japanese, Russian, Simplified Chinese, Portuguese - Brazil, Czech, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+        "reviews": "“Stunning to look at, exciting to explore, and enjoyable to play... charming.”<br>9/10 – TrueAchievements<br><br>“One of the most cohesively, beautifully designed games in ages”<br>9,8/10 – DualShockers<br>",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/header.jpg?t=1695818021",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/capsule_231x87.jpg?t=1695818021",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/capsule_184x69.jpg?t=1695818021",
+        "website": "https://www.focus-entmt.com/games/blacktail",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64bit only)<br></li><li><strong>Processor:</strong> Intel Core i5-3570K / AMD FX-4300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB VRAM, NVIDIA GeForce GTX 960 / Radeon RX 470<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64bit only)<br></li><li><strong>Processor:</strong> Intel Core i5-6600K / AMD Ryzen 5 1500X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 6 GB VRAM, GeForce GTX 1660 SUPER / Radeon RX 590<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+        },
+        "legal_notice": "© 2022 BLACKTAIL, a game developed by THE PARASIGHT and published by Focus Entertainment. BLACKTAIL, THE PARASIGHT, Focus Entertainment, and their respective logos are trademarks or registered trademarks. All other trademarks, registered trademarks or their logos belong to their respective owners. All rights reserved.",
+        "developers": [
+            "THE PARASIGHT"
+        ],
+        "publishers": [
+            "Focus Entertainment"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 3480000,
+            "final": 3480000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 34,800"
+        },
+        "packages": [
+            540929
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy BLACKTAIL",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540929,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "BLACKTAIL - ₩ 34,800",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 3480000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "metacritic": {
+            "score": 80,
+            "url": "https://www.metacritic.com/game/pc/blacktail?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_17aff20a4010243e39f1aaf7d2963cd992ba5973.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_17aff20a4010243e39f1aaf7d2963cd992ba5973.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_0f777443e264d67d321456e5d74f92d29e04f491.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_0f777443e264d67d321456e5d74f92d29e04f491.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_35085649cebb63a266d1be6a42e9caa7a8447011.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_35085649cebb63a266d1be6a42e9caa7a8447011.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_5fa9fcda2ad8200773a7c8e26345c5fe64bd7570.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_5fa9fcda2ad8200773a7c8e26345c5fe64bd7570.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_b6aa903be2694820869c24b0da4b665437a8d507.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_b6aa903be2694820869c24b0da4b665437a8d507.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_f79d86231b150558efc8461e9092dd0b89cb9d8a.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_f79d86231b150558efc8461e9092dd0b89cb9d8a.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_c2798b09e9f9fe383a36c3016293042155843d7f.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_c2798b09e9f9fe383a36c3016293042155843d7f.1920x1080.jpg?t=1695818021"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_531697ff5702ac2999ea0226606497a9701cec8e.600x338.jpg?t=1695818021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/ss_531697ff5702ac2999ea0226606497a9701cec8e.1920x1080.jpg?t=1695818021"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256921360,
+                "name": "BLACKTAIL - Launch Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256921360/movie.293x165.jpg?t=1671100619",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256921360/movie480_vp9.webm?t=1671100619",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256921360/movie_max_vp9.webm?t=1671100619"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256921360/movie480.mp4?t=1671100619",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256921360/movie_max.mp4?t=1671100619"
+                },
+                "highlight": true
+            },
+            {
+                "id": 256915011,
+                "name": "BLACKTAIL - Gameplay Overview Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915011/movie.293x165.jpg?t=1667827051",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256915011/movie480_vp9.webm?t=1667827051",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256915011/movie_max_vp9.webm?t=1667827051"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256915011/movie480.mp4?t=1667827051",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256915011/movie_max.mp4?t=1667827051"
+                },
+                "highlight": true
+            },
+            {
+                "id": 256902305,
+                "name": "BLACKTAIL - A Witch'sFate Gamescom Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256902305/movie.293x165.jpg?t=1661285359",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256902305/movie480_vp9.webm?t=1661285359",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256902305/movie_max_vp9.webm?t=1661285359"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256902305/movie480.mp4?t=1661285359",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256902305/movie_max.mp4?t=1661285359"
+                },
+                "highlight": true
+            },
+            {
+                "id": 256863995,
+                "name": "BLACKTAIL Gameplay Teaser",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256863995/movie.293x165.jpg?t=1638982616",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256863995/movie480_vp9.webm?t=1638982616",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256863995/movie_max_vp9.webm?t=1638982616"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256863995/movie480.mp4?t=1638982616",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256863995/movie_max.mp4?t=1638982616"
+                },
+                "highlight": true
+            },
+            {
+                "id": 256838543,
+                "name": "BLACKTAIL Teaser",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256838543/movie.293x165.jpg?t=1638982623",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256838543/movie480_vp9.webm?t=1638982623",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256838543/movie_max_vp9.webm?t=1638982623"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256838543/movie480.mp4?t=1638982623",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256838543/movie_max.mp4?t=1638982623"
+                },
+                "highlight": true
+            }
+        ],
+        "recommendations": {
+            "total": 1441
+        },
+        "achievements": {
+            "total": 32,
+            "highlighted": [
+                {
+                    "name": "Baba Yaga",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/776ca60f80895fa4d22c67f38010a1add55a5ba1.jpg"
+                },
+                {
+                    "name": "Extensive retelling",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/b9686032b75998cc76af4b7d599a2c40bd34caa0.jpg"
+                },
+                {
+                    "name": "A friend in need...",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/a86ae31bc3600de4fd7534d799d969dcb0a5c274.jpg"
+                },
+                {
+                    "name": "Awards unwarded",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/fec28a6ca7b461c24274b5600919eeeebc622c76.jpg"
+                },
+                {
+                    "name": "Always worth a try",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/f0887c951a776b39ac0ce397f5ab1b584f154099.jpg"
+                },
+                {
+                    "name": "Gnowlledgeable",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/0205f29068c3ad36bf957585e304e5848f9e162a.jpg"
+                },
+                {
+                    "name": "Witch's cookbook",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/e1f890ba75752bbdcc4700868f1ad6a11ba2ad7e.jpg"
+                },
+                {
+                    "name": "Both sides",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/e4ef9fabf5b78b101302cf3a4833d3fc20c6cf3c.jpg"
+                },
+                {
+                    "name": "Apex predator",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/885e3a5c5f88f29e186477e362b3ba6922769862.jpg"
+                },
+                {
+                    "name": "Mushrooming enthusiast",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532690/afc699c12c2c3bd320bb853c535b1df6fb6e0a91.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "15 Dec, 2022"
+        },
+        "support_info": {
+            "url": "https://support.focus-entmt.com",
+            "email": ""
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/page_bg_generated_v6b.jpg?t=1695818021",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/page.bg.jpg?t=1695818021",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "l",
+                "descriptors": "Violência fantasiosa"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "16",
+                "required_age": "16",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Drastische Gewalt"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "Lucy Dreaming",
+        "steam_appid": 1532710,
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": [
+            2462140
+        ],
+        "detailed_description": "<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/steam-reviews.png?t=1721053899\" /></h2><br>Discover a dark family secret and rid a young girl of her nightmares in this splendidly British point &amp; click comedy adventure. Playing as sharp-witted Lucy, explore both dreams and reality to meet all the colourful characters who'll help you solve puzzles, gather clues and find a murderer.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/british-EN.gif?t=1721053899\" /></h2>Ride your bike around the small British town of Figgington to meet its sardonic residents. Use your map to explore every corner, from its run-down town centre to the local pub as you discover the town's deepest, darkest secrets.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/ron-gilbert-short.png?t=1721053899\" /></h2><h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/dreams-EN.gif?t=1721053899\" /></h2>Learn techniques for dream control and enter Lucy's mind to unlock hidden memories, discover the past and unearth the disturbing truth behind her recurring nightmares.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/puzzles_EN.gif?t=1721053899\" /></h2>Along the way, you'll need to solve a huge variety of puzzles, so pour yourself a nice cup of tea and bring your powers of observation, logic and lateral thinking.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/steam-reviews.gif?t=1721053899\" /></h2><h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/characters-EN.gif?t=1721053899\" /></h2>From her dysfunctional family and the cynical Figgington townsfolk to the myriad of extraordinary characters from the depths of Lucy's subconscious, do you have what it takes to pacify giant crabs, interrogate old ladies, satisfy toddlers and bargain with trolls? Just don’t forget your teddy bear.<h2 class=\"bb_tag\">Game Features:</h2><ul class=\"bb_ul\"><li>A wide variety of pixel art dreams and real-world locations.<br></li><li>An exceptional voice cast including Dominic Armato (Monkey Island's own Guybrush Threepwood).<br></li><li>Detailed scenes with witty responses to almost everything you can point your cursor at.<br></li><li>Collect badges and achievements.<br></li><li>Subtitles in English and German.<br></li><li>Instant scene exit with a double-click.<br></li><li>Hotspot finder.<br><ul class=\"bb_ul\"></ul></li></ul>",
+        "about_the_game": "<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/steam-reviews.png?t=1721053899\" /></h2><br>Discover a dark family secret and rid a young girl of her nightmares in this splendidly British point &amp; click comedy adventure. Playing as sharp-witted Lucy, explore both dreams and reality to meet all the colourful characters who'll help you solve puzzles, gather clues and find a murderer.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/british-EN.gif?t=1721053899\" /></h2>Ride your bike around the small British town of Figgington to meet its sardonic residents. Use your map to explore every corner, from its run-down town centre to the local pub as you discover the town's deepest, darkest secrets.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/ron-gilbert-short.png?t=1721053899\" /></h2><h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/dreams-EN.gif?t=1721053899\" /></h2>Learn techniques for dream control and enter Lucy's mind to unlock hidden memories, discover the past and unearth the disturbing truth behind her recurring nightmares.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/puzzles_EN.gif?t=1721053899\" /></h2>Along the way, you'll need to solve a huge variety of puzzles, so pour yourself a nice cup of tea and bring your powers of observation, logic and lateral thinking.<h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/steam-reviews.gif?t=1721053899\" /></h2><h2 class=\"bb_tag\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/extras/characters-EN.gif?t=1721053899\" /></h2>From her dysfunctional family and the cynical Figgington townsfolk to the myriad of extraordinary characters from the depths of Lucy's subconscious, do you have what it takes to pacify giant crabs, interrogate old ladies, satisfy toddlers and bargain with trolls? Just don’t forget your teddy bear.<h2 class=\"bb_tag\">Game Features:</h2><ul class=\"bb_ul\"><li>A wide variety of pixel art dreams and real-world locations.<br></li><li>An exceptional voice cast including Dominic Armato (Monkey Island's own Guybrush Threepwood).<br></li><li>Detailed scenes with witty responses to almost everything you can point your cursor at.<br></li><li>Collect badges and achievements.<br></li><li>Subtitles in English and German.<br></li><li>Instant scene exit with a double-click.<br></li><li>Hotspot finder.<br><ul class=\"bb_ul\"></ul></li></ul>",
+        "short_description": "Discover a dark family secret and rid a young girl of her nightmares in this splendidly British point &amp; click comedy adventure. Playing as sharp-witted Lucy, explore both dreams and reality to meet all the colourful characters who'll help you solve puzzles, gather clues and find a murderer.",
+        "supported_languages": "English<strong>*</strong>, German<br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/header.jpg?t=1721053899",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/capsule_231x87.jpg?t=1721053899",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/capsule_184x69.jpg?t=1721053899",
+        "website": "https://lucy-dreaming.com/",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with at least 512MB Shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Sound Card:</strong> Any Windows-compatible sound card</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with at least 512MB Shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Sound Card:</strong> Any Windows-compatible sound card</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with at least 512MB Shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 11<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with at least 512MB Shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 (64 bit only)<br></li><li><strong>Processor:</strong> 2 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with at least 512MB Shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 (64 bit only)<br></li><li><strong>Processor:</strong> 2.6 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video card with at least 512MB Shared VRAM &amp; openGL 2.0 support<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+        },
+        "developers": [
+            "Tall Story Games Ltd"
+        ],
+        "publishers": [
+            "Tall Story Games Ltd"
+        ],
+        "demos": [
+            {
+                "appid": 1542220,
+                "description": "Download Lucy Dreaming Demo"
+            }
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 1950000,
+            "final": 1950000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 19,500"
+        },
+        "packages": [
+            540935
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Lucy Dreaming",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540935,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Lucy Dreaming - ₩ 19,500",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 1950000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "metacritic": {
+            "score": 87,
+            "url": "https://www.metacritic.com/game/pc/lucy-dreaming?ftag=MCD-06-10aaa1f"
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_8e8f07afb36d17d57196c7789ba602d98efd6a31.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_8e8f07afb36d17d57196c7789ba602d98efd6a31.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_4fa841cd4d368da7fd5f1c0fd28e18f05a5c5d97.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_4fa841cd4d368da7fd5f1c0fd28e18f05a5c5d97.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_2ceb888ad606c0acc9628a721fef88bcbfb4585f.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_2ceb888ad606c0acc9628a721fef88bcbfb4585f.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_241f05fb4204b24d6c8d4724a32f208cbd1e1f19.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_241f05fb4204b24d6c8d4724a32f208cbd1e1f19.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_73f7e92f541b4f4040893515daa2b4ce14cb19ed.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_73f7e92f541b4f4040893515daa2b4ce14cb19ed.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_bfd45dfeaf39ae296ab1edee6c51591ae93b9286.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_bfd45dfeaf39ae296ab1edee6c51591ae93b9286.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_e5af9fd25b8297112a81cba1fa2679109826659c.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_e5af9fd25b8297112a81cba1fa2679109826659c.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_5a955629895085022323d11ae2f909c89be67ef8.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_5a955629895085022323d11ae2f909c89be67ef8.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_438021716e38803b2a71ef06a6589380244a6e3c.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_438021716e38803b2a71ef06a6589380244a6e3c.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_37457f7a8d20738892935c14b6f5f07ad3da78ed.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_37457f7a8d20738892935c14b6f5f07ad3da78ed.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_9f2d910e495c9ebb15670e0d1f3b06467b492c1e.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_9f2d910e495c9ebb15670e0d1f3b06467b492c1e.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_5fd3970f983b6d6caa44966ac8f5d1b344c685ba.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_5fd3970f983b6d6caa44966ac8f5d1b344c685ba.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 12,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_6992c84f5bd80bae1bb8b053d36f6e2709ac0413.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_6992c84f5bd80bae1bb8b053d36f6e2709ac0413.1920x1080.jpg?t=1721053899"
+            },
+            {
+                "id": 13,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_2914f4977bbaa14a7a54cd9ddedd0929722128dc.600x338.jpg?t=1721053899",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/ss_2914f4977bbaa14a7a54cd9ddedd0929722128dc.1920x1080.jpg?t=1721053899"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256907817,
+                "name": "Lucy Dreaming Release Trailer with EN Subtitles",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907817/movie.293x165.jpg?t=1697204143",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256907817/movie480_vp9.webm?t=1697204143",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256907817/movie_max_vp9.webm?t=1697204143"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256907817/movie480.mp4?t=1697204143",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256907817/movie_max.mp4?t=1697204143"
+                },
+                "highlight": true
+            }
+        ],
+        "recommendations": {
+            "total": 224
+        },
+        "achievements": {
+            "total": 14,
+            "highlighted": [
+                {
+                    "name": "Queue master",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/9a961c9e549f6161abee5eeb1625ed33bfe3dbf7.jpg"
+                },
+                {
+                    "name": "Super cuber",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/8323c1a28b9f0956024aa4c780df0bc6fd7447b2.jpg"
+                },
+                {
+                    "name": "Goose walloper",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/e343e6a39aef6c4729d8a767573fea9981177949.jpg"
+                },
+                {
+                    "name": "Skullduggerer",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/b4b008d29e2f08efb19a65a8f05188346341d5aa.jpg"
+                },
+                {
+                    "name": "Slow goer",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/45d5bb1ae158c917c9d60d2dfb5140656d6e07ec.jpg"
+                },
+                {
+                    "name": "Konami coder",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/d23d188cd2bbedfed6f585985f56f7653786363c.jpg"
+                },
+                {
+                    "name": "301 redirector",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/1049befde436cde407768426ba6c56e589c0231a.jpg"
+                },
+                {
+                    "name": "Dream master",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/8de83d364c40912a1d6cafd170b9a1bb9e912e1d.jpg"
+                },
+                {
+                    "name": "EGA retro gamer",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/faee6e1ecc46e8b04da7794dade5f5ad98fbed2e.jpg"
+                },
+                {
+                    "name": "Backwards talker",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532710/d363018c33386f7f87f6700d30d04f30e2d096d4.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 Oct, 2022"
+        },
+        "support_info": {
+            "url": "https://tallstorygames.com/",
+            "email": "hello@tallstorygames.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/page_bg_generated_v6b.jpg?t=1721053899",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532710/page_bg_generated.jpg?t=1721053899",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "l"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "6",
+                "required_age": "6",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Derbe Sprache"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "Jigsaw Pieces 2 - Shades of Mood",
+        "steam_appid": 1532750,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Header-EN.jpg?t=1675156607\" /><br><strong><h2 class=\"bb_tag\">Making jigsaw puzzles makes you happy!</h2></strong><br><br>Making jigsaw puzzles is a popular way to relax. Forming a harmonious whole of all loose puzzle pieces makes you forget about everyday stress. To make sure that even the last bit of stress will disappear, all puzzles in this beautiful game consist of comforting and uplifting images. Surround yourself with bright sunshine, warmth and inspiration and just feel happy! Since you make these jigsaw puzzles on your computer, you won’t be distracted by lack of space. Now nothing stands in the way of a relaxed feeling!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Jigsaw_Pieces-Shades_of_Mood_Solving-Puzzle.gif?t=1675156607\" /><br><br>Complete a huge amount of jigsaw puzzles in HD quality and adjust the difficulty, the form, the size and the style of the puzzle pieces easily to your preferences. It’s also up to you to determine the amount of puzzle pieces. Keep it simple or pick a puzzle with no less than 1000 pieces! Choose from 16 intriguing game modes, complete seven chapters and find a way to unlock the secret chapter. Listen to the relaxing soundtrack, enjoy the beautiful sunny pictures and turn completing jigsaw puzzles into a daily ritual!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Jigsaw_Pieces-Shades_of_Mood_Scrolling.gif?t=1675156607\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Features-EN.jpg?t=1675156607\" /><br><ul class=\"bb_ul\"><li>7 Chapters + the Secret One<br></li><li>Increase the size of a puzzle up to 1000 pieces<br></li><li>Different cut-out patterns+ Mosaic and Lacy cut-outs<br></li><li>16 intriguing game modes <br></li><li>Customizable difficulty: from relaxing to challenging<br></li><li>Customizable Brightness and Colouring<br></li><li>HD quality levels<br></li><li>Great rewards every day<br></li><li>New Hint System<br></li><li>Interesting Random Puzzles of the day<br></li><li>Relaxing soundtrack<br></li><li>Set your most beloved levels as HD desktop wallpapers</li></ul>",
+        "about_the_game": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Header-EN.jpg?t=1675156607\" /><br><strong><h2 class=\"bb_tag\">Making jigsaw puzzles makes you happy!</h2></strong><br><br>Making jigsaw puzzles is a popular way to relax. Forming a harmonious whole of all loose puzzle pieces makes you forget about everyday stress. To make sure that even the last bit of stress will disappear, all puzzles in this beautiful game consist of comforting and uplifting images. Surround yourself with bright sunshine, warmth and inspiration and just feel happy! Since you make these jigsaw puzzles on your computer, you won’t be distracted by lack of space. Now nothing stands in the way of a relaxed feeling!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Jigsaw_Pieces-Shades_of_Mood_Solving-Puzzle.gif?t=1675156607\" /><br><br>Complete a huge amount of jigsaw puzzles in HD quality and adjust the difficulty, the form, the size and the style of the puzzle pieces easily to your preferences. It’s also up to you to determine the amount of puzzle pieces. Keep it simple or pick a puzzle with no less than 1000 pieces! Choose from 16 intriguing game modes, complete seven chapters and find a way to unlock the secret chapter. Listen to the relaxing soundtrack, enjoy the beautiful sunny pictures and turn completing jigsaw puzzles into a daily ritual!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Jigsaw_Pieces-Shades_of_Mood_Scrolling.gif?t=1675156607\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/extras/Features-EN.jpg?t=1675156607\" /><br><ul class=\"bb_ul\"><li>7 Chapters + the Secret One<br></li><li>Increase the size of a puzzle up to 1000 pieces<br></li><li>Different cut-out patterns+ Mosaic and Lacy cut-outs<br></li><li>16 intriguing game modes <br></li><li>Customizable difficulty: from relaxing to challenging<br></li><li>Customizable Brightness and Colouring<br></li><li>HD quality levels<br></li><li>Great rewards every day<br></li><li>New Hint System<br></li><li>Interesting Random Puzzles of the day<br></li><li>Relaxing soundtrack<br></li><li>Set your most beloved levels as HD desktop wallpapers</li></ul>",
+        "short_description": "Making jigsaw puzzles is a popular way to relax. Forming a harmonious whole of all loose puzzle pieces makes you forget about everyday stress. Since you make these jigsaw puzzles on your computer, you won’t be distracted by lack of space. Now nothing stands in the way of a relaxed feeling!",
+        "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/header.jpg?t=1675156607",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/capsule_231x87.jpg?t=1675156607",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/capsule_184x69.jpg?t=1675156607",
+        "website": "https://www.denda.com",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 98/ME/2000/XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any videocard supporting DirectX 9<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 900 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "legal_notice": "©Denda Games 2023<br />\r\n©Graphium Studio 2023",
+        "developers": [
+            "Graphium Studio"
+        ],
+        "publishers": [
+            "Denda Games"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 1050000,
+            "final": 1050000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 10,500"
+        },
+        "packages": [
+            540947
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Jigsaw Pieces 2 - Shades of Mood",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540947,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Jigsaw Pieces 2 - Shades of Mood - ₩ 10,500",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 1050000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_60f297e119de3e668f80ec0fd4618d81e72047ac.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_60f297e119de3e668f80ec0fd4618d81e72047ac.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_43d6c7dc3fb8e5abd683a33188d105d4db52a82b.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_43d6c7dc3fb8e5abd683a33188d105d4db52a82b.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_c6a36d40410f2464d85b0df5728f05db4c149e84.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_c6a36d40410f2464d85b0df5728f05db4c149e84.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_6925c223b8534b923e125fdb6305201ee46f8a6b.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_6925c223b8534b923e125fdb6305201ee46f8a6b.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_d38363efb17ba6f1e572089c814fedf162453ce5.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_d38363efb17ba6f1e572089c814fedf162453ce5.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_6ca029b6bddf0a7b993c9c7a5908f1b69964cad0.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_6ca029b6bddf0a7b993c9c7a5908f1b69964cad0.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_5b3669bc4c109b2a55045cb7181e2683995b1c7e.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_5b3669bc4c109b2a55045cb7181e2683995b1c7e.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_9e58c5d57ea775948e194abf8ec2cb15688a87e9.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_9e58c5d57ea775948e194abf8ec2cb15688a87e9.1920x1080.jpg?t=1675156607"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_b48ad548ad38bd1db2ed4adb48f7aa7300bb9956.600x338.jpg?t=1675156607",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/ss_b48ad548ad38bd1db2ed4adb48f7aa7300bb9956.1920x1080.jpg?t=1675156607"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256824181,
+                "name": "Jigsaw Pieces 2 - Shades of Mood trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256824181/movie.293x165.jpg?t=1614932433",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256824181/movie480_vp9.webm?t=1614932433",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256824181/movie_max_vp9.webm?t=1614932433"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256824181/movie480.mp4?t=1614932433",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256824181/movie_max.mp4?t=1614932433"
+                },
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "1 Apr, 2021"
+        },
+        "support_info": {
+            "url": "https://www.denda.com",
+            "email": "helpdesk@denda.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/page_bg_generated_v6b.jpg?t=1675156607",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532750/page.bg.jpg?t=1675156607",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "l",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "0",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "Jigsaw Pieces 3 - Fantasy",
+        "steam_appid": 1532760,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/ATG-Header-EN.jpg?t=1675156632\" /><h2 class=\"bb_tag\">Unleash your imagination in Jigsaw Pieces 3: Fantasy!</h2><br>In this fantasy world filled with beautiful jigsaw puzzles the only limit is your imagination. Who dares to fantasize can make the impossible become possible. All these special jigsaws will make you dream away or give you new inspiration. Cherish your imagination and find that a great deal of fantasy will make everyday life a lot more enjoyable!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/Comp_1_1.gif?t=1675156632\" /><br><br>Choose from a huge amount of fantastical jigsaw puzzles and adjust the gameplay entirely to your own preferences. Do you want to put together a huge jigsaw or do you prefer to play with a little less pieces? In this great game it is all possible. You can even turn your own images in a jigsaw puzzle! Immerse yourself in a beautiful fantasy world, enjoy the inspiring soundtrack, play as long as you like and make as many jigsaws as you can! <br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/Comp_2.gif?t=1675156632\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/Header-EN.jpg?t=1675156632\" /><br><ul class=\"bb_ul\"><li> 5 chapters full of puzzles plus a secret chapter<br></li><li> Play more than 200 unique puzzles<br></li><li> Increase puzzle size - from 30 to 1024 pieces!<br></li><li> HD quality images<br></li><li> Turn your own images into puzzles!<br></li><li> Use completed puzzles as HD wallpapers!</li></ul>",
+        "about_the_game": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/ATG-Header-EN.jpg?t=1675156632\" /><h2 class=\"bb_tag\">Unleash your imagination in Jigsaw Pieces 3: Fantasy!</h2><br>In this fantasy world filled with beautiful jigsaw puzzles the only limit is your imagination. Who dares to fantasize can make the impossible become possible. All these special jigsaws will make you dream away or give you new inspiration. Cherish your imagination and find that a great deal of fantasy will make everyday life a lot more enjoyable!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/Comp_1_1.gif?t=1675156632\" /><br><br>Choose from a huge amount of fantastical jigsaw puzzles and adjust the gameplay entirely to your own preferences. Do you want to put together a huge jigsaw or do you prefer to play with a little less pieces? In this great game it is all possible. You can even turn your own images in a jigsaw puzzle! Immerse yourself in a beautiful fantasy world, enjoy the inspiring soundtrack, play as long as you like and make as many jigsaws as you can! <br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/Comp_2.gif?t=1675156632\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/extras/Header-EN.jpg?t=1675156632\" /><br><ul class=\"bb_ul\"><li> 5 chapters full of puzzles plus a secret chapter<br></li><li> Play more than 200 unique puzzles<br></li><li> Increase puzzle size - from 30 to 1024 pieces!<br></li><li> HD quality images<br></li><li> Turn your own images into puzzles!<br></li><li> Use completed puzzles as HD wallpapers!</li></ul>",
+        "short_description": "Play more than 200 colourful puzzles in this beautiful fantasy themed Jigsaw game! Upload your own images into the game in order to puzzle your own unique images. Sit back, relax and enjoy the comfortable way of playing jigsaw puzzles.",
+        "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/header.jpg?t=1675156632",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/capsule_231x87.jpg?t=1675156632",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/capsule_184x69.jpg?t=1675156632",
+        "website": "https://www.denda.com/",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong> 900 MB RAM<br></li><li><strong>Graphics:</strong> Videocard supporting DirectX 9 compatible<br></li><li><strong>Storage:</strong> 660 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "legal_notice": "©Denda Games 2023<br />\r\n©Graphium Studio 2023",
+        "developers": [
+            "Graphium Studio"
+        ],
+        "publishers": [
+            "Denda Games"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 1050000,
+            "final": 315000,
+            "discount_percent": 70,
+            "initial_formatted": "₩ 10,500",
+            "final_formatted": "₩ 3,150"
+        },
+        "packages": [
+            540950
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Jigsaw Pieces 3 - Fantasy",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540950,
+                        "percent_savings_text": "-70% ",
+                        "percent_savings": 0,
+                        "option_text": "Jigsaw Pieces 3 - Fantasy - <span class=\"discount_original_price\">₩ 10,500</span> ₩ 3,150",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 315000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 13,
+                "description": "Captions available"
+            },
+            {
+                "id": 15,
+                "description": "Stats"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_ffcf7ba9785f6c9e29cd2a1963f15d79c74d15b8.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_ffcf7ba9785f6c9e29cd2a1963f15d79c74d15b8.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_2f9cc2b8c904749358dcc2718c64a2416e67c39a.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_2f9cc2b8c904749358dcc2718c64a2416e67c39a.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_1da757b214ca0639997f0812987c415fb1a9936a.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_1da757b214ca0639997f0812987c415fb1a9936a.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_6214b336ffb3d1d85ea8276c12db536a5cd9df42.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_6214b336ffb3d1d85ea8276c12db536a5cd9df42.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_0a2f7bb6b4053c7fc3f5e11693a7a763cbb0166e.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_0a2f7bb6b4053c7fc3f5e11693a7a763cbb0166e.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_a593a358c37c94c40301cbc62d4ba96b481e23f0.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_a593a358c37c94c40301cbc62d4ba96b481e23f0.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_5af6e3c38b89e68c4c28d2d9d0b3dd3aed8be44c.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_5af6e3c38b89e68c4c28d2d9d0b3dd3aed8be44c.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_2d7a3975370fa01898c4b627ce98b7f00a0b67ac.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_2d7a3975370fa01898c4b627ce98b7f00a0b67ac.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_9cb251f814af7cb8e5728eded3bf7de6322468a4.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_9cb251f814af7cb8e5728eded3bf7de6322468a4.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_ff57727116f51c7cbf73f81e3d27543d382bd937.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_ff57727116f51c7cbf73f81e3d27543d382bd937.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_f4cb39f8d0b5afacc26c0211ca1f93df5e3281c6.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_f4cb39f8d0b5afacc26c0211ca1f93df5e3281c6.1920x1080.jpg?t=1675156632"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_c7b0e4675c6ce7d249bdcf7c7e8b67e91b4c3137.600x338.jpg?t=1675156632",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/ss_c7b0e4675c6ce7d249bdcf7c7e8b67e91b4c3137.1920x1080.jpg?t=1675156632"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256839526,
+                "name": "Jigsaw Pieces 3 - Fantasy",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256839526/movie.293x165.jpg?t=1623999591",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256839526/movie480_vp9.webm?t=1623999591",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256839526/movie_max_vp9.webm?t=1623999591"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256839526/movie480.mp4?t=1623999591",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256839526/movie_max.mp4?t=1623999591"
+                },
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "18 Jun, 2021"
+        },
+        "support_info": {
+            "url": "https://www.denda.com",
+            "email": "helpdesk@denda.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/page_bg_generated_v6b.jpg?t=1675156632",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532760/page.bg.jpg?t=1675156632",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "l",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "0",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "Sex and the Furry Titty",
+        "steam_appid": 1532770,
+        "required_age": 0,
+        "is_free": false,
+        "dlc": [
+            2403200,
+            1756970,
+            2403190
+        ],
+        "detailed_description": "<h1>🍒 ADD OUR NEW GAME TO YOUR WISHLIST 🍒</h1><p><br></p><br><h1>💖Play the other games in this series!💖</h1><p><br><br></p><br><h1>About the Game</h1><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/line_02.png?t=1726753585\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/game_1.png?t=1726753585\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/game_2.png?t=1726753585\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/game_3.png?t=1726753585\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/line_01.png?t=1726753585\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/animated_cat_30_2.png?t=1726753585\" /><br><br><strong>Sex and the Furry Titty</strong> goes to town on the city! There are foxy ladies out and about, hung plumbers visiting some wet and wild kitties, gloryholes waiting for the connoisseurs, and much, much more!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/animated_30.png?t=1726753585\" /><br><br><strong>Six all-new, original stories</strong>, one starts with a leaky sink, another with a jaunt to a lingerie shop. An encounter in the library brings two college students together, and a pair of newlyweds are trying to see all the sights, but can’t take their eyes off one another. Every time it starts with something innocent enough, but upgrades to a <strong>steamy hot</strong> (and sometimes public!) <strong>sex</strong> soon after.<br><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_home_alone.png?t=1726753585\" /><br>Robyn is a polyamorous sex blogger who really likes being with people, but right now she is stuck at home all alone, longing for some action. But there's a package heading to her, full of wondrous treasures, shiny and vibrating. And even if her partners can't be with her physically, she can call someone while she's testing her new toys!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_boutique_2.png?t=1726753585\" /><br>A very foxy lady walks into a boutique to get some new sexy lingerie. There’s only one assistant available, he’s new and extremely nervous. But he is just so, so adorable! She must have him. The lady licks her lips, imagining the taste of his meat: The game of fox and mouse is about to begin!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_plumber.png?t=1726753585\" /><br>The faucet bursts, making Mindy one wet and furious kitty. One call, and the plumber knocks on her door. Just gets one glimpse of the guy, and she becomes much, much wetter. There are a few ways to fix the leak, and now the kitty really wants her pipes cleaned, too. Luckily, there’s a mighty plunger at hand.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_library-2.png?t=1726753585\" /><br>A shy, nerdy tigress sits in the library. She imagines a boy giving her flowers, kissing her, marrying her, fucking her brains out. And then the boy in question walks up to her to ask for some help with Eng Lit. Startled, she drops her books, and when they pick them up, their eyes meet, and a spark ignites a fierce fire. There are lots of nooks between the bookshelves, but maybe they can wait till evening?<br> <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_gloryhole-2.png?t=1726753585\" /><br>IT’S TIME TO PARTY! The music pumps, the crowd goes wild in the trendy club, promising an amazing night! And here’s a lithe deer lady, who needs to freshen up in the powder room. But there’s only one stall available, and there are two holes cut out of the both sidewalls. Have you heard a saying, &quot;Grab the deer by the horns?” No? Anyway, she’s going to get some.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_honeymoon-3.png?t=1726753585\" /><br>The newlywed couple went to Japan for their honeymoon. There are so many cool places! The sights! The only problem is they are still so horny, everywhere they go, they end up fucking. Trains, Ferris wheels, public baths and even restaurants, no place is safe from this wild bunch!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Five steaming hot stories, one better than the other<br></li><li>More than 60 fully original artworks<br></li><li>Hand-animated VOICED sex scenes that will leave you wanting more<br></li><li>Branching narrative, choices, and decisions (because sex is always exciting in many ways)<br></li><li>Classic Match-3 gameplay to add some casual fun</li></ul>",
+        "about_the_game": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/line_02.png?t=1726753585\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/game_1.png?t=1726753585\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/game_2.png?t=1726753585\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/game_3.png?t=1726753585\" /><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/line_01.png?t=1726753585\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/animated_cat_30_2.png?t=1726753585\" /><br><br><strong>Sex and the Furry Titty</strong> goes to town on the city! There are foxy ladies out and about, hung plumbers visiting some wet and wild kitties, gloryholes waiting for the connoisseurs, and much, much more!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/animated_30.png?t=1726753585\" /><br><br><strong>Six all-new, original stories</strong>, one starts with a leaky sink, another with a jaunt to a lingerie shop. An encounter in the library brings two college students together, and a pair of newlyweds are trying to see all the sights, but can’t take their eyes off one another. Every time it starts with something innocent enough, but upgrades to a <strong>steamy hot</strong> (and sometimes public!) <strong>sex</strong> soon after.<br><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_home_alone.png?t=1726753585\" /><br>Robyn is a polyamorous sex blogger who really likes being with people, but right now she is stuck at home all alone, longing for some action. But there's a package heading to her, full of wondrous treasures, shiny and vibrating. And even if her partners can't be with her physically, she can call someone while she's testing her new toys!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_boutique_2.png?t=1726753585\" /><br>A very foxy lady walks into a boutique to get some new sexy lingerie. There’s only one assistant available, he’s new and extremely nervous. But he is just so, so adorable! She must have him. The lady licks her lips, imagining the taste of his meat: The game of fox and mouse is about to begin!<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_plumber.png?t=1726753585\" /><br>The faucet bursts, making Mindy one wet and furious kitty. One call, and the plumber knocks on her door. Just gets one glimpse of the guy, and she becomes much, much wetter. There are a few ways to fix the leak, and now the kitty really wants her pipes cleaned, too. Luckily, there’s a mighty plunger at hand.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_library-2.png?t=1726753585\" /><br>A shy, nerdy tigress sits in the library. She imagines a boy giving her flowers, kissing her, marrying her, fucking her brains out. And then the boy in question walks up to her to ask for some help with Eng Lit. Startled, she drops her books, and when they pick them up, their eyes meet, and a spark ignites a fierce fire. There are lots of nooks between the bookshelves, but maybe they can wait till evening?<br> <br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_gloryhole-2.png?t=1726753585\" /><br>IT’S TIME TO PARTY! The music pumps, the crowd goes wild in the trendy club, promising an amazing night! And here’s a lithe deer lady, who needs to freshen up in the powder room. But there’s only one stall available, and there are two holes cut out of the both sidewalls. Have you heard a saying, &quot;Grab the deer by the horns?” No? Anyway, she’s going to get some.<br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/extras/header_honeymoon-3.png?t=1726753585\" /><br>The newlywed couple went to Japan for their honeymoon. There are so many cool places! The sights! The only problem is they are still so horny, everywhere they go, they end up fucking. Trains, Ferris wheels, public baths and even restaurants, no place is safe from this wild bunch!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Five steaming hot stories, one better than the other<br></li><li>More than 60 fully original artworks<br></li><li>Hand-animated VOICED sex scenes that will leave you wanting more<br></li><li>Branching narrative, choices, and decisions (because sex is always exciting in many ways)<br></li><li>Classic Match-3 gameplay to add some casual fun</li></ul>",
+        "short_description": "Sex and the Furry Titty goes to town on the city! Experience 6 new stories with an elaborate web of branching paths. Explore each one, win match-3 challenges, and get ready for 24 hot animated VOICED sex scenes!",
+        "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Hungarian, Portuguese - Portugal<br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/header.jpg?t=1726753585",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/capsule_231x87.jpg?t=1726753585",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/capsule_184x69.jpg?t=1726753585",
+        "website": "https://www.patreon.com/furlough_games",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> 2 Ghz Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 512MB+<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "Furlough Games"
+        ],
+        "publishers": [
+            "Furlough Games PBS"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 780000,
+            "final": 780000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 7,800"
+        },
+        "packages": [
+            540953
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Sex and the Furry Titty",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540953,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Sex and the Furry Titty - ₩ 7,800",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 780000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 29,
+                "description": "Steam Trading Cards"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_65eb221f7443de1dfb0af509c4682e4a9785da25.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_65eb221f7443de1dfb0af509c4682e4a9785da25.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_6a6a724d43dbcfb3e47eb88e2e874ec23896f7db.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_6a6a724d43dbcfb3e47eb88e2e874ec23896f7db.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_0843fb1f573b2f3b55a7f10bfc4c0c2a536c0ce1.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_0843fb1f573b2f3b55a7f10bfc4c0c2a536c0ce1.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_56be73768b04c369ed669184a0ec8c3950fe7cf1.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_56be73768b04c369ed669184a0ec8c3950fe7cf1.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_3c8bd8fe14ba51976e6d81e089818a7dbe7b8961.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_3c8bd8fe14ba51976e6d81e089818a7dbe7b8961.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_a487c358494a0e701c7d66ebb4f140e3b8da549d.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_a487c358494a0e701c7d66ebb4f140e3b8da549d.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_dcffc3688f3758566ad8bb3ce57957b6d0f365ff.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_dcffc3688f3758566ad8bb3ce57957b6d0f365ff.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_5584d34e15e50fee2da355e00731275aa9c592da.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_5584d34e15e50fee2da355e00731275aa9c592da.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_d8060758e0f9589383caefa5e78902c2d57a84e0.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_d8060758e0f9589383caefa5e78902c2d57a84e0.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_452be19b9bbd1c04572000cf7a0ec8cd4c736c62.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_452be19b9bbd1c04572000cf7a0ec8cd4c736c62.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_63c022af9e2f0283cf52006874eccf7db569049a.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_63c022af9e2f0283cf52006874eccf7db569049a.1920x1080.jpg?t=1726753585"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_72add17e03a4a5069426b783425e60c1d1bfc505.600x338.jpg?t=1726753585",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/ss_72add17e03a4a5069426b783425e60c1d1bfc505.1920x1080.jpg?t=1726753585"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256837464,
+                "name": "ReleaseTrailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256837464/movie.293x165.jpg?t=1622840603",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256837464/movie480_vp9.webm?t=1622840603",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256837464/movie_max_vp9.webm?t=1622840603"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256837464/movie480.mp4?t=1622840603",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256837464/movie_max.mp4?t=1622840603"
+                },
+                "highlight": true
+            }
+        ],
+        "recommendations": {
+            "total": 873
+        },
+        "achievements": {
+            "total": 19,
+            "highlighted": [
+                {
+                    "name": "Fox and Mouse",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/f9a5cb1d23bad6d453748aea329e94f5497c1204.jpg"
+                },
+                {
+                    "name": "Catch a Mouse",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/91971935bef5de99e836a35f5cdddc5a696d1163.jpg"
+                },
+                {
+                    "name": "You Called?",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/40278acd01828efdf6e7a34f906c4ea290000edb.jpg"
+                },
+                {
+                    "name": "Just Like the Movies",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/65d4ddeee587599bce959b24f29256d4d534c3c1.jpg"
+                },
+                {
+                    "name": "School's Out",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/f640262f3305386fc31cc7d9476f38f69ece3375.jpg"
+                },
+                {
+                    "name": "Immersion Learning",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/fb275c8d32f039ffa0d7eed868464b048a7a1f2e.jpg"
+                },
+                {
+                    "name": "Deep Hole",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/762f70c1df0d87081c5e9cbadfd5a08bed52c3b9.jpg"
+                },
+                {
+                    "name": "Horny Bull",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/31d7237c7284d0d15214cb63c6b44508c943ddd3.jpg"
+                },
+                {
+                    "name": "Honeymoon",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/ca65c2266160036bf2d10c29de55e99aae42ea2f.jpg"
+                },
+                {
+                    "name": "Like Rabbits",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532770/0d7dda4f07d06efd52e41d2a0922acbb31f97a80.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "3 Jun, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "furloughgamescontact@gmail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/page_bg_generated_v6b.jpg?t=1726753585",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532770/page_bg_generated.jpg?t=1726753585",
+        "content_descriptors": {
+            "ids": [
+                1,
+                3,
+                5,
+                4
+            ],
+            "notes": "Sexual acts and nudity."
+        },
+        "ratings": {
+            "dejus": {
+                "rating": "18",
+                "descriptors": "Sexo Explícito\r\nLinguagem imprópria\r\nViolência",
+                "use_age_gate": "true",
+                "required_age": "18"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "BANNED",
+                "required_age": "2147483647",
+                "banned": "1",
+                "use_age_gate": "0",
+                "descriptors": "Schimpfwörte"
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "The Magnets",
+        "steam_appid": 1532780,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "The Magnets is a logic puzzle game whose goal is to make the balls fall onto the same colored platforms by using the magnets to push or pull the blocks.<br><br><ul class=\"bb_ul\"><li> The magnets <strong>push</strong> the blocks of the <strong>same color</strong> and <strong>pull</strong> the <strong>different colored blocks</strong>, <strong>only if the number</strong> on the magnets is <strong>greater</strong> than the number on the block.<br></li><li> <strong>The numbers</strong> on the magnet show their <strong>strength against the blocks</strong>, and also how many squares their <strong>field of view</strong> and <strong> impact area</strong> are.</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/extras/the_magnets-trailer_gif_30fps.gif?t=1628347214\" /><br><br><ul class=\"bb_ul\"><li> No time and life limitation<br></li><li> Difficulty increases steadily along the course of the game<br></li><li> You can undo your move or restart the level whenever you want<br></li><li> You can quit from a puzzle whenever you want, then you can come back and continue where you left off</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/extras/store_page_6.png?t=1628347214\" />",
+        "about_the_game": "The Magnets is a logic puzzle game whose goal is to make the balls fall onto the same colored platforms by using the magnets to push or pull the blocks.<br><br><ul class=\"bb_ul\"><li> The magnets <strong>push</strong> the blocks of the <strong>same color</strong> and <strong>pull</strong> the <strong>different colored blocks</strong>, <strong>only if the number</strong> on the magnets is <strong>greater</strong> than the number on the block.<br></li><li> <strong>The numbers</strong> on the magnet show their <strong>strength against the blocks</strong>, and also how many squares their <strong>field of view</strong> and <strong> impact area</strong> are.</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/extras/the_magnets-trailer_gif_30fps.gif?t=1628347214\" /><br><br><ul class=\"bb_ul\"><li> No time and life limitation<br></li><li> Difficulty increases steadily along the course of the game<br></li><li> You can undo your move or restart the level whenever you want<br></li><li> You can quit from a puzzle whenever you want, then you can come back and continue where you left off</li></ul><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/extras/store_page_6.png?t=1628347214\" />",
+        "short_description": "The Magnets is a logic puzzle game.",
+        "supported_languages": "English, Simplified Chinese, Russian",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/header.jpg?t=1628347214",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/capsule_231x87.jpg?t=1628347214",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/capsule_184x69.jpg?t=1628347214",
+        "website": "https://www.gokalpkanatsiz.com/onuralpkanatsz",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> 1.5Ghz+<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0+<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "legal_notice": "Copyright 2021 Onuralp Kanatsz. All Rights Reserved.",
+        "developers": [
+            "Onuralp Kanatsz"
+        ],
+        "publishers": [
+            "Onuralp Kanatsz"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 450000,
+            "final": 450000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 4,500"
+        },
+        "packages": [
+            540956
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy The Magnets",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540956,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "The Magnets - ₩ 4,500",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 450000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 23,
+                "description": "Steam Cloud"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_516c75de0c9c57344306bea3891a9e8d08329a25.600x338.jpg?t=1628347214",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_516c75de0c9c57344306bea3891a9e8d08329a25.1920x1080.jpg?t=1628347214"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_d3b014fb0e5ba442605001efaaf9b3a20be95083.600x338.jpg?t=1628347214",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_d3b014fb0e5ba442605001efaaf9b3a20be95083.1920x1080.jpg?t=1628347214"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_fe8d6ba3638f5f6b7f1b6bf3b65d6e28aaf1dd5d.600x338.jpg?t=1628347214",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_fe8d6ba3638f5f6b7f1b6bf3b65d6e28aaf1dd5d.1920x1080.jpg?t=1628347214"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_4e7eb8ff852ba84e8bd730fb71c07c48d266ca7c.600x338.jpg?t=1628347214",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_4e7eb8ff852ba84e8bd730fb71c07c48d266ca7c.1920x1080.jpg?t=1628347214"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_7cd81468d7f251dbdd67fa2f6e6629e499755514.600x338.jpg?t=1628347214",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/ss_7cd81468d7f251dbdd67fa2f6e6629e499755514.1920x1080.jpg?t=1628347214"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256824189,
+                "name": "The Magnets-March",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256824189/movie.293x165.jpg?t=1618249065",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256824189/movie480_vp9.webm?t=1618249065",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256824189/movie_max_vp9.webm?t=1618249065"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256824189/movie480.mp4?t=1618249065",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256824189/movie_max.mp4?t=1618249065"
+                },
+                "highlight": true
+            }
+        ],
+        "achievements": {
+            "total": 2,
+            "highlighted": [
+                {
+                    "name": "Welcome!",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532780/7cecc3a9b9f16f2ad966a41a196c80a612a51392.jpg"
+                },
+                {
+                    "name": "Congratulations!",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532780/6bef9eac8125ccca66257c1a7e36b9e97c86f50e.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "25 Feb, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "onuralpkanatsz@gmail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/page_bg_generated_v6b.jpg?t=1628347214",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532780/page.bg.jpg?t=1628347214",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "l",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "0",
+                "required_age": "0",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": ""
+            }
+        }
+    },
+    {
+        "type": "game",
+        "name": "Red Laser Z",
+        "steam_appid": 1532830,
+        "required_age": 0,
+        "is_free": false,
+        "detailed_description": "Work is calling! <strong>Janine Potts</strong>, an agent of the state, was given a new mission: Science Station S-33 was occupied by the “ants”, an invasive species of insectoid aliens! As she arrives, Janine is greeted by <strong>Axiom 3B</strong>, the AI host that controls the station. Intrigue soon arises when <strong>Janine </strong>hears rumors that an <strong>Ant-Queen</strong> was kidnapped to be experimented on by the station’s Chief Scientist, <strong>Dr. Halinkov</strong>. <strong>Janine </strong>now must navigate the crazy sci-fi environment, eliminating aliens, talking to residents, and finding secret areas to uncover the truth about the alien invasion!<br><br>All songs by Ozzed. You can find his music at .<br>Logo and Janine illustration by Klaatu81 <br>Contact: <a href=\"mailto:redlaserzgame@gmail.com\">redlaserzgame@gmail.com</a><br><br><strong>Gameplay</strong><br><br><strong>Penalty System:</strong> Your laser disintegrates everything with one shot. I mean EVERYTHING. (Well, almost.) You can destroy scene objects and NPCs. However, there’s a Penalty System that rewards when you hit enemies and penalizes when you hit everything else. If you get more than 40 Penalty Points, your head explodes and it’s game over, man!<br><br><strong>Money Combo System:</strong> Earn money each time you hit an enemy. Your multiplier increases at each accurate hit, and resets when you miss a shot. Also, earn extra money when you destroy shielded enemies with one shot. It’s easy, just shoot the gaps. =]<br><br><strong>Clone System:</strong> You have only one life. However, you can create up to 5 clones in each stage. Your mind is transported to the clone’s brain when you die. But clones aren’t free! After each death, you need to make a new clone, for a price. I know, capitalism sucks. <br><br><strong>Secrets and Treasures:</strong> Search for hidden areas and collect retro video games to earn more money!<br><br><strong>Shops:</strong> You can buy the usual: Energy and ammo, grenades, a protective vest (that explodes when depleted!), two upgrades for your laser, and redemption for your Penalty Points.<br><br><strong>Talk to NPCs: </strong>You can talk to all NPCs. Also, in every stage you can find one Special NPC, with whom you can have a more in-depth dialogue. (It’s optional, though, you can ignore them if you want. Of course, you’ll miss the story that I wrote so arduously =P)<br><br><strong>Accuracy: </strong>At the end of all stages, you’ll see a screen with statistics. If you’re good enough, you can earn extra money.<br><br><strong>Story-Driven:</strong> The story is full with big themes: artificial intelligence, existentialism, religion, time travel, politics, the importance of having easy access to caffeine, and much more!<br><br><strong>Moral Decisions: </strong>As an agent of the state, your job is to eliminate 100% of the alien invaders. Thing is, some of them might surprise you in more than one way. The gun is in your hand, pulling the trigger is your choice! <br><br><strong>Featuring:</strong><br><br>= 10 handcrafted stages<br>= 2-4 hours of gameplay<br>= 3 raycast based weapons<br>= 2 bosses<br>= Grenades/Bombs for area damage<br>= Look around corners move<br>= Campaign Mode that saves your progress<br>= Free Play Mode to jump straight to any stage<br>= Unique pixel art in 3D environment",
+        "about_the_game": "Work is calling! <strong>Janine Potts</strong>, an agent of the state, was given a new mission: Science Station S-33 was occupied by the “ants”, an invasive species of insectoid aliens! As she arrives, Janine is greeted by <strong>Axiom 3B</strong>, the AI host that controls the station. Intrigue soon arises when <strong>Janine </strong>hears rumors that an <strong>Ant-Queen</strong> was kidnapped to be experimented on by the station’s Chief Scientist, <strong>Dr. Halinkov</strong>. <strong>Janine </strong>now must navigate the crazy sci-fi environment, eliminating aliens, talking to residents, and finding secret areas to uncover the truth about the alien invasion!<br><br>All songs by Ozzed. You can find his music at .<br>Logo and Janine illustration by Klaatu81 <br>Contact: <a href=\"mailto:redlaserzgame@gmail.com\">redlaserzgame@gmail.com</a><br><br><strong>Gameplay</strong><br><br><strong>Penalty System:</strong> Your laser disintegrates everything with one shot. I mean EVERYTHING. (Well, almost.) You can destroy scene objects and NPCs. However, there’s a Penalty System that rewards when you hit enemies and penalizes when you hit everything else. If you get more than 40 Penalty Points, your head explodes and it’s game over, man!<br><br><strong>Money Combo System:</strong> Earn money each time you hit an enemy. Your multiplier increases at each accurate hit, and resets when you miss a shot. Also, earn extra money when you destroy shielded enemies with one shot. It’s easy, just shoot the gaps. =]<br><br><strong>Clone System:</strong> You have only one life. However, you can create up to 5 clones in each stage. Your mind is transported to the clone’s brain when you die. But clones aren’t free! After each death, you need to make a new clone, for a price. I know, capitalism sucks. <br><br><strong>Secrets and Treasures:</strong> Search for hidden areas and collect retro video games to earn more money!<br><br><strong>Shops:</strong> You can buy the usual: Energy and ammo, grenades, a protective vest (that explodes when depleted!), two upgrades for your laser, and redemption for your Penalty Points.<br><br><strong>Talk to NPCs: </strong>You can talk to all NPCs. Also, in every stage you can find one Special NPC, with whom you can have a more in-depth dialogue. (It’s optional, though, you can ignore them if you want. Of course, you’ll miss the story that I wrote so arduously =P)<br><br><strong>Accuracy: </strong>At the end of all stages, you’ll see a screen with statistics. If you’re good enough, you can earn extra money.<br><br><strong>Story-Driven:</strong> The story is full with big themes: artificial intelligence, existentialism, religion, time travel, politics, the importance of having easy access to caffeine, and much more!<br><br><strong>Moral Decisions: </strong>As an agent of the state, your job is to eliminate 100% of the alien invaders. Thing is, some of them might surprise you in more than one way. The gun is in your hand, pulling the trigger is your choice! <br><br><strong>Featuring:</strong><br><br>= 10 handcrafted stages<br>= 2-4 hours of gameplay<br>= 3 raycast based weapons<br>= 2 bosses<br>= Grenades/Bombs for area damage<br>= Look around corners move<br>= Campaign Mode that saves your progress<br>= Free Play Mode to jump straight to any stage<br>= Unique pixel art in 3D environment",
+        "short_description": "Red Laser Z is a FPS shooter with a unique weapon that disintegrates everything with one shot. A space station was occupied by aliens, and it's your job to climb up through 10 handcrafted stages full with secret areas, treasures and wacky NPCs to uncover the weird truth behind the invasion.",
+        "supported_languages": "English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/header.jpg?t=1617086021",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/capsule_231x87.jpg?t=1617086021",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/capsule_184x69.jpg?t=1617086021",
+        "website": null,
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750 Ti<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+            "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-6600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon RX 580<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+        },
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "33 Games"
+        ],
+        "publishers": [
+            "33 Games"
+        ],
+        "price_overview": {
+            "currency": "KRW",
+            "initial": 330000,
+            "final": 330000,
+            "discount_percent": 0,
+            "initial_formatted": "",
+            "final_formatted": "₩ 3,300"
+        },
+        "packages": [
+            540972
+        ],
+        "package_groups": [
+            {
+                "name": "default",
+                "title": "Buy Red Laser Z",
+                "description": "",
+                "selection_text": "Select a purchase option",
+                "save_text": "",
+                "display_type": 0,
+                "is_recurring_subscription": "false",
+                "subs": [
+                    {
+                        "packageid": 540972,
+                        "percent_savings_text": " ",
+                        "percent_savings": 0,
+                        "option_text": "Red Laser Z - ₩ 3,300",
+                        "option_description": "",
+                        "can_get_free_license": "0",
+                        "is_free_license": false,
+                        "price_in_cents_with_discount": 330000
+                    }
+                ]
+            }
+        ],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 22,
+                "description": "Steam Achievements"
+            },
+            {
+                "id": 62,
+                "description": "Family Sharing"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_7f059a6f936e04d7c6e7da4170cbb26e6627d6ad.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_7f059a6f936e04d7c6e7da4170cbb26e6627d6ad.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_789592cbb204157ba970921c82f475f9d070ad58.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_789592cbb204157ba970921c82f475f9d070ad58.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_f55c6dc110def2c1f2d0e2345b8d6c93757b2236.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_f55c6dc110def2c1f2d0e2345b8d6c93757b2236.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_7dca3c0ae8a6c9f2c779773d4b960aca2afc2d3a.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_7dca3c0ae8a6c9f2c779773d4b960aca2afc2d3a.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_3a974044f5413a5dde926fbe8472c0f7eed28bc6.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_3a974044f5413a5dde926fbe8472c0f7eed28bc6.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_6e774a4c78318d4996dbe22475a2db9ad4f120f5.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_6e774a4c78318d4996dbe22475a2db9ad4f120f5.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_32a6367a505559f69293157df47f21a4cc8f1314.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_32a6367a505559f69293157df47f21a4cc8f1314.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_2de049ebb714b17d16e272c29fc26cde88cd2047.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_2de049ebb714b17d16e272c29fc26cde88cd2047.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_9098b9d423d583e0b520002415b33a2d4cb0cd29.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_9098b9d423d583e0b520002415b33a2d4cb0cd29.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_be2bf82a67ebd744b86f9131d3f45961b55bee20.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_be2bf82a67ebd744b86f9131d3f45961b55bee20.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_d383f69498c37a2888b21cc2f24c2730e728d7d4.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_d383f69498c37a2888b21cc2f24c2730e728d7d4.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_e9233eb2ac113705cb459b1785c0c22082051924.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_e9233eb2ac113705cb459b1785c0c22082051924.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 12,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_cd9ffa805ffe4940859c1a68a940c79688ed2908.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_cd9ffa805ffe4940859c1a68a940c79688ed2908.1920x1080.jpg?t=1617086021"
+            },
+            {
+                "id": 13,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_2fa6c2213f63d980d51b7b15bf60ca9f4cc2f90f.600x338.jpg?t=1617086021",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/ss_2fa6c2213f63d980d51b7b15bf60ca9f4cc2f90f.1920x1080.jpg?t=1617086021"
+            }
+        ],
+        "movies": [
+            {
+                "id": 256819266,
+                "name": "Red Laser Z - Short Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819266/movie.293x165.jpg?t=1611952124",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256819266/movie480_vp9.webm?t=1611952124",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256819266/movie_max_vp9.webm?t=1611952124"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/256819266/movie480.mp4?t=1611952124",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/256819266/movie_max.mp4?t=1611952124"
+                },
+                "highlight": true
+            }
+        ],
+        "achievements": {
+            "total": 48,
+            "highlighted": [
+                {
+                    "name": "Beat Stage 1",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/8081fb1f3f83f53f2d0c79b810c99017d1971682.jpg"
+                },
+                {
+                    "name": "Beat Stage 2",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/9e96a1592e3770faaa501a88fe88434178015f64.jpg"
+                },
+                {
+                    "name": "Beat Stage 3",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/d15462837bead2e7bcd54116703f863b01699847.jpg"
+                },
+                {
+                    "name": "Beat Stage 4",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/c5d93858ddb50895efa260b427d3c2b3bddad626.jpg"
+                },
+                {
+                    "name": "Beat Stage 5",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/13ea0224aaa720fbf5846f64ff1f0de4a3b91f83.jpg"
+                },
+                {
+                    "name": "Beat Stage 6",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/a73e022523dbdae99b22c0af83bed7c629fd2409.jpg"
+                },
+                {
+                    "name": "Beat Stage 7",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/0997f4a92086d7ce7464724e87a04c7be46cc71c.jpg"
+                },
+                {
+                    "name": "Beat Stage 8",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/82b9a89428aed1c9ee800ebeebfefbac12bbc287.jpg"
+                },
+                {
+                    "name": "Beat Stage 9",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/c0aab521094fc98a3f7c38ec95c1956217973d55.jpg"
+                },
+                {
+                    "name": "Beat Stage 10",
+                    "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1532830/37325955b23aed7ac8482b48f37dab2bb876d947.jpg"
+                }
+            ]
+        },
+        "release_date": {
+            "coming_soon": false,
+            "date": "29 Mar, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "redlaserzgame@gmail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/page_bg_generated_v6b.jpg?t=1617086021",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532830/page_bg_generated.jpg?t=1617086021",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "10",
+                "required_age": "10",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Gewalt"
+            }
+        }
+    },
+    {
+        "type": "demo",
+        "name": "Zen World Demo",
+        "steam_appid": 1532850,
+        "required_age": 0,
+        "is_free": true,
+        "detailed_description": "",
+        "about_the_game": "",
+        "short_description": "",
+        "fullgame": {
+            "appid": "1485650",
+            "name": "Zen World"
+        },
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/header.jpg?t=1611776902",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/capsule_231x87.jpg?t=1611776902",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/capsule_184x69.jpg?t=1611776902",
+        "website": null,
+        "pc_requirements": [],
+        "mac_requirements": [],
+        "linux_requirements": [],
+        "developers": [
+            "Cartboard Games"
+        ],
+        "publishers": [
+            "Cartboard Games"
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "categories": [
+            {
+                "id": 10,
+                "description": "Game demo"
+            },
+            {
+                "id": 44,
+                "description": "Remote Play Together"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_eb729e9c5cf48ca186f26b853fc26ad33f6aa52d.600x338.jpg?t=1611776902",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_eb729e9c5cf48ca186f26b853fc26ad33f6aa52d.1920x1080.jpg?t=1611776902"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_c64bc2331a098fd70414a8e2d2d550ab0f7938eb.600x338.jpg?t=1611776902",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_c64bc2331a098fd70414a8e2d2d550ab0f7938eb.1920x1080.jpg?t=1611776902"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_b3cc4b1e9766f82ed6b4150439adb2e556aecc44.600x338.jpg?t=1611776902",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_b3cc4b1e9766f82ed6b4150439adb2e556aecc44.1920x1080.jpg?t=1611776902"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_613da652f8bfd16dc19e2f6d7c3fab5363e5ffd1.600x338.jpg?t=1611776902",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_613da652f8bfd16dc19e2f6d7c3fab5363e5ffd1.1920x1080.jpg?t=1611776902"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_da3f3a9fb852c13dde0014056a5db290ab040a22.600x338.jpg?t=1611776902",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/ss_da3f3a9fb852c13dde0014056a5db290ab040a22.1920x1080.jpg?t=1611776902"
+            }
+        ],
+        "release_date": {
+            "coming_soon": false,
+            "date": "27 Jan, 2021"
+        },
+        "support_info": {
+            "url": "",
+            "email": "help.cartboard@gmail.com"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/page_bg_generated_v6b.jpg?t=1611776902",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532850/page_bg_generated.jpg?t=1611776902",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": null
+    }
+]

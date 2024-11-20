@@ -17,9 +17,11 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path
-from videos import views
+from videos import views as video_views
+from steam_game import views as steam_game_views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", views.video_list, name="video_list"),
+    path("", steam_game_views.game_list, name="game_list"),
+    path("<int:app_id>/", steam_game_views.game_detail, name="game_detail"),
 ]

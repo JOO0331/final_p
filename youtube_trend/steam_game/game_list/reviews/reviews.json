@@ -1,0 +1,27 @@
+[
+    {
+        "recommendationid": "178453319",
+        "author": {
+            "steamid": "76561199557348286",
+            "num_games_owned": 0,
+            "num_reviews": 1,
+            "playtime_forever": 203,
+            "playtime_last_two_weeks": 0,
+            "playtime_at_review": 203,
+            "last_played": 1710909159
+        },
+        "language": "english",
+        "review": "This game is so fun and so cute! If you're expecting a traditional dating sim, don't. It's closer to a friendship sim. There may be an unexpected amount of gore so be aware of that. Overall though it's a really cute little game with really lovable characters",
+        "timestamp_created": 1730825399,
+        "timestamp_updated": 1730825399,
+        "voted_up": true,
+        "votes_up": 1,
+        "votes_funny": 0,
+        "weighted_vote_score": "0.519999980926513672",
+        "comment_count": 0,
+        "steam_purchase": true,
+        "received_for_free": false,
+        "written_during_early_access": false,
+        "primarily_steam_deck": false
+    }
+]
