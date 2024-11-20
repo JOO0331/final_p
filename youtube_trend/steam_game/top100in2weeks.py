@@ -1,0 +1,18 @@
+import os
+import django
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'youtube_trend.settings')
+django.setup()
+import requests
+import json
+
+def fetch_steam_top100in2weeks():
+    response = requests.get('https://steamspy.com/api.php?request=top100in2weeks')
+    data = response.json()
+
+    with open('game_list/top100in2weeks.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+fetch_steam_top100in2weeks()
+
