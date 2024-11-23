@@ -1,0 +1,213 @@
+[
+    {
+        "type": "game",
+        "name": "Moon Watch: Time-Control Deckbuilder",
+        "steam_appid": 2878030,
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "detailed_description": "<strong>The Time-Stop Horde Survival Roguelike!</strong><h2 class=\"bb_tag\">Survive the Horde</h2>The Year is 19XX... Fight through endless hordes of ghouls, cybernetically enhanced undead, and servants to the all-powerful Vampire Lord. Every second counts, every step is life or death, everything is vampires... on the moon!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/extras/Horde_steam.gif?t=1729170334\" /><h2 class=\"bb_tag\">Stop the Flow of Time</h2>Wield the Moon Watch! Time itself becomes your weapon: think strategically, set up devastating combos, weave impossible odds in your favor.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/extras/time_steam.gif?t=1729170334\" /><h2 class=\"bb_tag\">Build Your Deck</h2><ul class=\"bb_ul\"><li>Collect cards with unique attacks and abilities.<br></li><li>Refine your deck to build devastating combos.<br></li><li>Discover rare relics that provide passive upgrades to your run.<br></li><li>Hunt the darkest threat the world, and the moon, has ever known.</li></ul><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/extras/cards_steam.gif?t=1729170334\" /><h2 class=\"bb_tag\">Enhance Your Power</h2>Unlock devastating new tools after every attempt to navigate the Vampire Lords Castle. Your next visit to the moon will take you closer to him.<br><ul class=\"bb_ul\"><li>Unlock new cards!<br></li><li>Discover powerful relics!<br></li><li>Play with new starting decks and increased enemy hordes!</li></ul>",
+        "about_the_game": "<strong>The Time-Stop Horde Survival Roguelike!</strong><h2 class=\"bb_tag\">Survive the Horde</h2>The Year is 19XX... Fight through endless hordes of ghouls, cybernetically enhanced undead, and servants to the all-powerful Vampire Lord. Every second counts, every step is life or death, everything is vampires... on the moon!<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/extras/Horde_steam.gif?t=1729170334\" /><h2 class=\"bb_tag\">Stop the Flow of Time</h2>Wield the Moon Watch! Time itself becomes your weapon: think strategically, set up devastating combos, weave impossible odds in your favor.<br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/extras/time_steam.gif?t=1729170334\" /><h2 class=\"bb_tag\">Build Your Deck</h2><ul class=\"bb_ul\"><li>Collect cards with unique attacks and abilities.<br></li><li>Refine your deck to build devastating combos.<br></li><li>Discover rare relics that provide passive upgrades to your run.<br></li><li>Hunt the darkest threat the world, and the moon, has ever known.</li></ul><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/extras/cards_steam.gif?t=1729170334\" /><h2 class=\"bb_tag\">Enhance Your Power</h2>Unlock devastating new tools after every attempt to navigate the Vampire Lords Castle. Your next visit to the moon will take you closer to him.<br><ul class=\"bb_ul\"><li>Unlock new cards!<br></li><li>Discover powerful relics!<br></li><li>Play with new starting decks and increased enemy hordes!</li></ul>",
+        "short_description": "Time is movement in this strategy deckbuilder from the creators of Backpack Hero! Control time, play devastating combos, and outsmart the bullet hell!",
+        "supported_languages": "English, French, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Japanese, Korean, Polish",
+        "reviews": "“I only really want to play a game in this genre if it's doing something new... this seems to be doing something new!”<br>Retromation<br><br>“The Backpack Hero devs have just dropped another banger.”<br>Haelian<br>",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/header.jpg?t=1729170334",
+        "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/c462e731ee3c03edf396945c0776ab982312faf1/capsule_231x87.jpg?t=1729170334",
+        "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/c462e731ee3c03edf396945c0776ab982312faf1/capsule_184x69.jpg?t=1729170334",
+        "website": "https://thejaspel.itch.io/moonwatch",
+        "pc_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> 1.1 GHz Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable.<br></li><li><strong>DirectX:</strong> Version 10</li></ul>"
+        },
+        "mac_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6+<br></li><li><strong>Processor:</strong> 1.1 GHz Processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 512 MB</li></ul>"
+        },
+        "linux_requirements": {
+            "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04, Ubuntu 18.04, and CentOS 7<br></li><li><strong>Processor:</strong> 1.1 GHz Processor<br></li><li><strong>Memory:</strong> 1 GB RAM</li></ul>"
+        },
+        "legal_notice": "Copyright © 2024 Jaspel LLC. All rights reserved.",
+        "developers": [
+            "Jaspel"
+        ],
+        "publishers": [
+            "Pretty Soon"
+        ],
+        "demos": [
+            {
+                "appid": 3126870,
+                "description": ""
+            }
+        ],
+        "package_groups": [],
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "categories": [
+            {
+                "id": 2,
+                "description": "Single-player"
+            },
+            {
+                "id": 28,
+                "description": "Full controller support"
+            }
+        ],
+        "genres": [
+            {
+                "id": "1",
+                "description": "Action"
+            },
+            {
+                "id": "25",
+                "description": "Adventure"
+            },
+            {
+                "id": "4",
+                "description": "Casual"
+            },
+            {
+                "id": "23",
+                "description": "Indie"
+            },
+            {
+                "id": "3",
+                "description": "RPG"
+            },
+            {
+                "id": "2",
+                "description": "Strategy"
+            }
+        ],
+        "screenshots": [
+            {
+                "id": 0,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_bb059ddac1a08aa5fb730c6971339a51f5f6b6ad.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_bb059ddac1a08aa5fb730c6971339a51f5f6b6ad.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 1,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_7d69d9bed4f30cb0c4d8fb7de68da47db38a1e38.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_7d69d9bed4f30cb0c4d8fb7de68da47db38a1e38.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 2,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_51d0aab054365ec26c8c74830fff6a197f7569b8.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_51d0aab054365ec26c8c74830fff6a197f7569b8.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 3,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_4fa26068aba86c240f550ace15f5442a3131ed29.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_4fa26068aba86c240f550ace15f5442a3131ed29.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 4,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_3828606b13dc6a9e9699355d9e834528e13317d8.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_3828606b13dc6a9e9699355d9e834528e13317d8.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 5,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_4647cbf451e0e72b0f5aea8a9972b4c30487d959.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_4647cbf451e0e72b0f5aea8a9972b4c30487d959.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 6,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_633931b55342f34391f3e3eed8d2d00b3f9c7c18.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_633931b55342f34391f3e3eed8d2d00b3f9c7c18.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 7,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_ec8098fd94bcbd440e4946239e6f0f8fc6894115.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_ec8098fd94bcbd440e4946239e6f0f8fc6894115.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 8,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_ed29c29795a2808e8b826f153177692c10698511.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_ed29c29795a2808e8b826f153177692c10698511.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 9,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_9c2691ea14a4666c44d129ea1860ec6eaea0fcbf.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_9c2691ea14a4666c44d129ea1860ec6eaea0fcbf.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 10,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_da3f7b43cf48cbea6ac9e2bd611d26be0675a758.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_da3f7b43cf48cbea6ac9e2bd611d26be0675a758.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 11,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_a56b3ba66fbe175afee017f0908172482cac357c.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_a56b3ba66fbe175afee017f0908172482cac357c.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 12,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_cc4da37c5edff5ad6123558a42b5a8694afeb8f5.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_cc4da37c5edff5ad6123558a42b5a8694afeb8f5.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 13,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_35fbc7de05b77d78a61d46105d3741063001d1cd.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_35fbc7de05b77d78a61d46105d3741063001d1cd.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 14,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_e5dccfa6fd992ca5ec9a0618a0c824f960db8f8d.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_e5dccfa6fd992ca5ec9a0618a0c824f960db8f8d.1920x1080.jpg?t=1729170334"
+            },
+            {
+                "id": 15,
+                "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_f3bb7317b48107d71b142aeaf888a065bd2acf29.600x338.jpg?t=1729170334",
+                "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/ss_f3bb7317b48107d71b142aeaf888a065bd2acf29.1920x1080.jpg?t=1729170334"
+            }
+        ],
+        "movies": [
+            {
+                "id": 257051598,
+                "name": "Reveal Trailer",
+                "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257051598/movie.293x165.jpg?t=1725293449",
+                "webm": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/257051598/movie480_vp9.webm?t=1725293449",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/257051598/movie_max_vp9.webm?t=1725293449"
+                },
+                "mp4": {
+                    "480": "http://video.akamai.steamstatic.com/store_trailers/257051598/movie480.mp4?t=1725293449",
+                    "max": "http://video.akamai.steamstatic.com/store_trailers/257051598/movie_max.mp4?t=1725293449"
+                },
+                "highlight": true
+            }
+        ],
+        "release_date": {
+            "coming_soon": true,
+            "date": "Q4 2024"
+        },
+        "support_info": {
+            "url": "",
+            "email": "support@prettysoon.games"
+        },
+        "background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/page_bg_generated_v6b.jpg?t=1729170334",
+        "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878030/page.bg.jpg?t=1729170334",
+        "content_descriptors": {
+            "ids": [],
+            "notes": null
+        },
+        "ratings": {
+            "dejus": {
+                "rating_generated": "1",
+                "rating": "12",
+                "required_age": "12",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Violência"
+            },
+            "steam_germany": {
+                "rating_generated": "1",
+                "rating": "16",
+                "required_age": "16",
+                "banned": "0",
+                "use_age_gate": "0",
+                "descriptors": "Gewalt"
+            }
+        }
+    }
+]

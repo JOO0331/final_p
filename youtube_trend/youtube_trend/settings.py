@@ -82,7 +82,11 @@ DATABASES = {
         "NAME": "steam_test",
         "ENFORCE_SCHEMA": False,
         "CLIENT": {
-            "host": "mongodb://localhost:27017/steam_test"
+            "host": "mongodb://localhost:27017/steam_test",
+            "maxPoolSize": 100,
+            "waitQueueTimeoutMS": 2000,
+            "socketTimeoutMS": 360000,
+            "connectTimeoutMS": 360000,
         }
     }
 }

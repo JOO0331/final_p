@@ -10,9 +10,10 @@ import json
 def fetch_steam_top100in2weeks():
     response = requests.get('https://steamspy.com/api.php?request=top100in2weeks')
     data = response.json()
+    games = [{"app_id": app_id, "positive": game["positive"], "negative": game["negative"]} for app_id, game in data.items()]
 
     with open('game_list/top100in2weeks.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(games, f, ensure_ascii=False, indent=4)
 
 fetch_steam_top100in2weeks()
 
