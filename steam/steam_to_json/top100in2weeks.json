@@ -1,0 +1,502 @@
+[
+    {
+        "app_id": "570",
+        "positive": 1925757,
+        "negative": 435055
+    },
+    {
+        "app_id": "578080",
+        "positive": 1451066,
+        "negative": 1012066
+    },
+    {
+        "app_id": "1172470",
+        "positive": 651985,
+        "negative": 311743
+    },
+    {
+        "app_id": "440",
+        "positive": 996749,
+        "negative": 128185
+    },
+    {
+        "app_id": "1623730",
+        "positive": 315473,
+        "negative": 20301
+    },
+    {
+        "app_id": "1063730",
+        "positive": 195105,
+        "negative": 89213
+    },
+    {
+        "app_id": "730",
+        "positive": 7307693,
+        "negative": 1098497
+    },
+    {
+        "app_id": "2358720",
+        "positive": 952133,
+        "negative": 36126
+    },
+    {
+        "app_id": "1938090",
+        "positive": 383692,
+        "negative": 269753
+    },
+    {
+        "app_id": "271590",
+        "positive": 1659538,
+        "negative": 246625
+    },
+    {
+        "app_id": "550",
+        "positive": 881714,
+        "negative": 22553
+    },
+    {
+        "app_id": "1599340",
+        "positive": 143114,
+        "negative": 57877
+    },
+    {
+        "app_id": "304930",
+        "positive": 501271,
+        "negative": 46737
+    },
+    {
+        "app_id": "553850",
+        "positive": 669746,
+        "negative": 245756
+    },
+    {
+        "app_id": "236390",
+        "positive": 435593,
+        "negative": 259496
+    },
+    {
+        "app_id": "1245620",
+        "positive": 908986,
+        "negative": 72038
+    },
+    {
+        "app_id": "291550",
+        "positive": 307948,
+        "negative": 67860
+    },
+    {
+        "app_id": "431960",
+        "positive": 822099,
+        "negative": 16410
+    },
+    {
+        "app_id": "1086940",
+        "positive": 653515,
+        "negative": 21531
+    },
+    {
+        "app_id": "4000",
+        "positive": 1075225,
+        "negative": 36098
+    },
+    {
+        "app_id": "105600",
+        "positive": 1314148,
+        "negative": 33415
+    },
+    {
+        "app_id": "359550",
+        "positive": 1126570,
+        "negative": 206539
+    },
+    {
+        "app_id": "1085660",
+        "positive": 492579,
+        "negative": 122830
+    },
+    {
+        "app_id": "346110",
+        "positive": 592341,
+        "negative": 116557
+    },
+    {
+        "app_id": "252490",
+        "positive": 982406,
+        "negative": 145316
+    },
+    {
+        "app_id": "230410",
+        "positive": 525986,
+        "negative": 78987
+    },
+    {
+        "app_id": "892970",
+        "positive": 446126,
+        "negative": 26465
+    },
+    {
+        "app_id": "1091500",
+        "positive": 651823,
+        "negative": 132411
+    },
+    {
+        "app_id": "218620",
+        "positive": 589307,
+        "negative": 68759
+    },
+    {
+        "app_id": "901583",
+        "positive": 134508,
+        "negative": 29418
+    },
+    {
+        "app_id": "242760",
+        "positive": 543965,
+        "negative": 25618
+    },
+    {
+        "app_id": "413150",
+        "positive": 768345,
+        "negative": 12999
+    },
+    {
+        "app_id": "322330",
+        "positive": 452500,
+        "negative": 20788
+    },
+    {
+        "app_id": "899770",
+        "positive": 76145,
+        "negative": 22831
+    },
+    {
+        "app_id": "340",
+        "positive": 12279,
+        "negative": 1479
+    },
+    {
+        "app_id": "1203220",
+        "positive": 213546,
+        "negative": 91222
+    },
+    {
+        "app_id": "381210",
+        "positive": 607295,
+        "negative": 148234
+    },
+    {
+        "app_id": "945360",
+        "positive": 635462,
+        "negative": 56714
+    },
+    {
+        "app_id": "238960",
+        "positive": 203584,
+        "negative": 24244
+    },
+    {
+        "app_id": "1097150",
+        "positive": 386882,
+        "negative": 89113
+    },
+    {
+        "app_id": "438100",
+        "positive": 171608,
+        "negative": 56650
+    },
+    {
+        "app_id": "292030",
+        "positive": 772438,
+        "negative": 31453
+    },
+    {
+        "app_id": "291480",
+        "positive": 54757,
+        "negative": 27630
+    },
+    {
+        "app_id": "49520",
+        "positive": 269794,
+        "negative": 17481
+    },
+    {
+        "app_id": "444090",
+        "positive": 293839,
+        "negative": 52038
+    },
+    {
+        "app_id": "227300",
+        "positive": 792632,
+        "negative": 21490
+    },
+    {
+        "app_id": "552990",
+        "positive": 111619,
+        "negative": 32479
+    },
+    {
+        "app_id": "10",
+        "positive": 236849,
+        "negative": 6255
+    },
+    {
+        "app_id": "320",
+        "positive": 12239,
+        "negative": 1249
+    },
+    {
+        "app_id": "739630",
+        "positive": 692204,
+        "negative": 29959
+    },
+    {
+        "app_id": "272060",
+        "positive": 4920,
+        "negative": 1466
+    },
+    {
+        "app_id": "990080",
+        "positive": 263932,
+        "negative": 27264
+    },
+    {
+        "app_id": "620",
+        "positive": 406265,
+        "negative": 5391
+    },
+    {
+        "app_id": "252950",
+        "positive": 508883,
+        "negative": 72149
+    },
+    {
+        "app_id": "1517290",
+        "positive": 128054,
+        "negative": 154021
+    },
+    {
+        "app_id": "1966720",
+        "positive": 434123,
+        "negative": 12159
+    },
+    {
+        "app_id": "582010",
+        "positive": 412742,
+        "negative": 57933
+    },
+    {
+        "app_id": "1240440",
+        "positive": 122048,
+        "negative": 52233
+    },
+    {
+        "app_id": "70",
+        "positive": 131545,
+        "negative": 4767
+    },
+    {
+        "app_id": "240",
+        "positive": 169346,
+        "negative": 6523
+    },
+    {
+        "app_id": "108600",
+        "positive": 312116,
+        "negative": 19306
+    },
+    {
+        "app_id": "1468810",
+        "positive": 118601,
+        "negative": 105561
+    },
+    {
+        "app_id": "444200",
+        "positive": 113976,
+        "negative": 29678
+    },
+    {
+        "app_id": "648800",
+        "positive": 306364,
+        "negative": 21457
+    },
+    {
+        "app_id": "386360",
+        "positive": 93930,
+        "negative": 25171
+    },
+    {
+        "app_id": "755790",
+        "positive": 74632,
+        "negative": 25663
+    },
+    {
+        "app_id": "1174180",
+        "positive": 583818,
+        "negative": 52282
+    },
+    {
+        "app_id": "250900",
+        "positive": 302062,
+        "negative": 7880
+    },
+    {
+        "app_id": "550650",
+        "positive": 62300,
+        "negative": 19561
+    },
+    {
+        "app_id": "239140",
+        "positive": 415860,
+        "negative": 21056
+    },
+    {
+        "app_id": "400",
+        "positive": 165216,
+        "negative": 2572
+    },
+    {
+        "app_id": "301520",
+        "positive": 86414,
+        "negative": 31926
+    },
+    {
+        "app_id": "367520",
+        "positive": 367695,
+        "negative": 11009
+    },
+    {
+        "app_id": "477160",
+        "positive": 194958,
+        "negative": 10913
+    },
+    {
+        "app_id": "814380",
+        "positive": 289411,
+        "negative": 14287
+    },
+    {
+        "app_id": "417910",
+        "positive": 950,
+        "negative": 692
+    },
+    {
+        "app_id": "433850",
+        "positive": 114035,
+        "negative": 90733
+    },
+    {
+        "app_id": "1222670",
+        "positive": 134617,
+        "negative": 19433
+    },
+    {
+        "app_id": "594650",
+        "positive": 171849,
+        "negative": 63039
+    },
+    {
+        "app_id": "261550",
+        "positive": 222839,
+        "negative": 30617
+    },
+    {
+        "app_id": "304050",
+        "positive": 74053,
+        "negative": 18130
+    },
+    {
+        "app_id": "8930",
+        "positive": 192386,
+        "negative": 7786
+    },
+    {
+        "app_id": "532210",
+        "positive": 29671,
+        "negative": 4868
+    },
+    {
+        "app_id": "377160",
+        "positive": 315726,
+        "negative": 65395
+    },
+    {
+        "app_id": "251570",
+        "positive": 302863,
+        "negative": 40529
+    },
+    {
+        "app_id": "255710",
+        "positive": 245483,
+        "negative": 17660
+    },
+    {
+        "app_id": "289070",
+        "positive": 288641,
+        "negative": 44714
+    },
+    {
+        "app_id": "107410",
+        "positive": 247964,
+        "negative": 26380
+    },
+    {
+        "app_id": "526870",
+        "positive": 189981,
+        "negative": 6198
+    },
+    {
+        "app_id": "60",
+        "positive": 4818,
+        "negative": 1012
+    },
+    {
+        "app_id": "1238810",
+        "positive": 163899,
+        "negative": 67814
+    },
+    {
+        "app_id": "221100",
+        "positive": 310896,
+        "negative": 96828
+    },
+    {
+        "app_id": "218230",
+        "positive": 58906,
+        "negative": 13786
+    },
+    {
+        "app_id": "72850",
+        "positive": 300192,
+        "negative": 16301
+    },
+    {
+        "app_id": "1089350",
+        "positive": 30344,
+        "negative": 30444
+    },
+    {
+        "app_id": "204360",
+        "positive": 114445,
+        "negative": 4581
+    },
+    {
+        "app_id": "1811260",
+        "positive": 86000,
+        "negative": 65393
+    },
+    {
+        "app_id": "96000",
+        "positive": 5568,
+        "negative": 801
+    },
+    {
+        "app_id": "394360",
+        "positive": 281499,
+        "negative": 28012
+    },
+    {
+        "app_id": "632360",
+        "positive": 277737,
+        "negative": 19940
+    }
+]
