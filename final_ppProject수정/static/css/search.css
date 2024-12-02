@@ -1,0 +1,223 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .logo img {
+            width: 160px;
+            height: auto;
+        }
+        .search-bar {
+            display: flex;
+            gap: 10px;
+        }
+        .search-bar input {
+            padding: 10px;
+            background-color: #333;
+            border: 1px solid #444;
+            color: white;
+            border-radius: 5px;
+        }
+        .search-bar button {
+            padding: 10px;
+            background-color: #444;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .search-bar .reset-btn {
+            background-color: #555;
+        }
+        .content {
+            display: flex;
+            gap: 30px;
+            width: 80%;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: #222;
+            padding: 20px;
+            border-radius: 8px;
+            color: white;
+        }
+        .main-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .game-item {
+            display: flex;
+            background-color: #333;
+            padding: 15px;
+            border-radius: 8px;
+            color: white;
+            align-items: center;
+            gap: 20px;
+        }
+        .game-item img {
+            width: 120px;
+            height: 80px;
+            object-fit: cover;
+        }
+        .game-item .info {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            align-items: center;
+        }
+        .game-item h3 {
+            margin: 0;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .game-item p {
+            font-size: 14px;
+        }
+        .badge {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            color: white;
+            text-align: center;
+            line-height: 30px;
+            font-size: 14px;
+            border: 1px solid transparent; /* 기본 테두리는 투명 */
+        }
+
+        .badge.green { border-color: green; }
+        .badge.red { border-color: red; }
+        .badge.yellow { border-color: yellow; }
+
+
+            .pricing {
+                display: flex;
+                align-items: center;
+                gap: 20px;
+            }
+
+            .discount {
+                font-size: 16px;
+                font-weight: bold;
+                color: red;
+            }
+
+            .price-info {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+            }
+
+            .original-price {
+                text-decoration: line-through;
+                font-size: 16px;
+                color: #999;
+            }
+
+            .final-price {
+                font-size: 18px;
+                font-weight: bold;
+                color: #00ff00; /* Green color for the discounted price */
+            }
+
+
+        .filter-section select, .filter-section input[type="range"] {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 5px;
+            background-color: #333;
+            border: 1px solid #444;
+            color: white;
+            border-radius: 5px;
+        }
+
+        .range-label {
+            font-size: 14px;
+            margin-bottom: 5px;
+            color: white;
+        }
+
+        .filter-section fieldset {
+            border: none;
+            margin-bottom: 20px;
+        }
+
+        .filter-section fieldset legend {
+            font-size: 16px;
+            color: white;
+        }
+
+        .filter-section label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        /* 검색창의 Search 버튼 */
+        .btn-search-bar {
+            padding: 10px 20px;
+            background-color: #444;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .btn-search-bar:hover {
+            background-color: #555; /* 호버 시 색상 변화 */
+        }
+
+        /* 검색옵션의 Search 버튼 */
+        .button-group .btn-search-options {
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            background-color: #444;
+            color: white;
+            border: none;
+        }
+
+        .button-group .btn-search-options:hover {
+            background-color: #555; /* 호버 시 색상 변화 */
+        }
+
+        /* 검색옵션의 Reset 버튼 */
+        .button-group .btn-reset {
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #555;
+            color: white;
+            border: none;
+        }
+
+        .button-group .btn-reset:hover {
+            background-color: #666; /* 호버 시 색상 변화 */
+        }
+
+        /* 버튼 그룹 가운데 정렬 */
+        .button-group {
+            display: flex;
+            justify-content: center; /* 버튼들을 가운데 정렬 */
+            gap: 20px; /* 버튼들 간의 간격 */
+            margin-top: 20px; /* 버튼 그룹 상단 마진 */
+        }

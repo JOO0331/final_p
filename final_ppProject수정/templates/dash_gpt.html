@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>대시보드</title>
+    <style>
+        /* Body와 전반적인 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #1e1e1e;
+    margin: 0 150px;
+}
+.container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+/* Header 스타일 */
+header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+header img {
+    width: 150px;
+}
+
+header form {
+    display: inline-flex;
+    margin-top: 10px;
+}
+
+header input[type="search"] {
+    width: 400px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+}
+
+header button {
+    background-color: #555;
+    border: none;
+    padding: 10px;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+header button:hover {
+    background-color: #777;
+}
+
+/* Main Content */
+main {
+    display: flex;
+    margin: 20px;
+    gap: 20px; /* 좌측과 우측 간격 추가 */
+}
+
+/* Left Content */
+.left-content {
+    flex: 2.5; /* 2.5 비율 */
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column; /* 세로 방향 정렬 */
+}
+
+/* Right Content */
+.right-content {
+    flex: 1.5; /* 1 비율 */
+    max-width: 300px; /* 최대 너비 설정 */
+    background-color: #8f72a6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Game Screenshot 섹션 */
+.game-screenshot-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.game-screenshot {
+    max-width: 100%; /* 너비를 100%로 설정 */
+    height: auto;
+    border-radius: 8px;
+}
+
+/* 작은 이미지들 스타일 */
+.thumbnail-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.thumbnail-container img {
+    width: 100px;
+    height: auto;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.thumbnail-container img:hover {
+    transform: scale(1.1);
+}
+
+/* Similar Games Section */
+.similar-games {
+    margin-top: 20px;
+    width: 100%; /* 동일하게 width를 100%로 설정 */
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    overflow-x: auto;
+    width: 100%; /* 100% 너비 설정 */
+}
+
+.card {
+    background-color: #333;
+    border: 1px solid #555;
+    border-radius: 8px;
+    width: 220px; /* 게임 카드 크기 조정 */
+    padding: 20px;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: 100%;
+
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.card h3 {
+    font-size: 1.25em;
+    margin-bottom: 10px;
+}
+
+.card .tags {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.card .tags span {
+    background-color: #444;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.875em;
+}
+
+.card .pricing {
+    margin-bottom: 10px;
+}
+
+.card .pricing .old-price {
+    text-decoration: line-through;
+    color: #aaa;
+}
+
+.card .pricing .new-price {
+    font-size: 1.5em;
+    color: #00bfff;
+}
+
+.card button {
+    background-color: #8f72a6;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.card button:hover {
+    background-color: #d19636;
+}
+
+/* Video Summary 스타일 */
+.videos {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 20px;
+}
+
+.video {
+    flex: 1;
+    text-align: center;
+}
+
+.video img {
+    width: 100%;
+    height: auto;
+}
+
+.video p {
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+/* Keywords */
+.keywords {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 20px;
+}
+
+.keyword {
+    flex: 1; /* 자식 요소들이 동일한 비율로 너비를 차지하도록 설정 */
+    padding: 10px;
+    background-color: #292929; /* 키워드 배경색 (선택 사항) */
+    border-radius: 8px; /* 부드러운 모서리 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 추가 */
+}
+.keyword b {
+    font-size: 1.2em;
+    color: #00bfff; /* 제목 강조 색상 */
+    margin-bottom: 10px;
+    display: block;
+}
+
+.keyword ul {
+    list-style: none; /* 기본 리스트 스타일 제거 */
+    padding: 0; /* 패딩 제거 */
+    margin: 0; /* 마진 제거 */
+}
+
+.keyword li {
+    margin-bottom: 10px; /* 리스트 아이템 간격 추가 */
+    color: white; /* 텍스트 색상 */
+}
+
+/* Section 스타일 */
+.section {
+    margin-bottom: 20px;
+    width: 100%; /* 섹션의 너비를 100%로 설정 */
+}
+
+/* Header 이미지 */
+.header-image {
+    width: 100%;
+    height: auto;
+}
+
+#header-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Price, Info, and Purchase Section */
+.price, .info {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd; /* 구분선 추가 */
+}
+
+.price ul, .info ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.price li, .info li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.price strong {
+    color: #2c3e50;
+}
+
+.info strong {
+    color: #2980b9;
+}
+
+/* Purchase Button 스타일 */
+button.purchase-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button.purchase-btn:hover {
+    background-color: #2980b9;
+}
+
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <header>
+        {% load static %}
+        <img src="{% static 'imgs/logo.png' %}" alt="Logo" style="width: 300px; height: auto;">
+        <form>
+            <input type="search" placeholder="Search for games" aria-label="Search games">
+            <button type="submit">Seach</button>
+        </form>
+    </header>
+</div>
+
+<div class="section">
+        <h1>ㅁ{{ game.name_eng }}</h1>
+    </div>
+
+<main>
+    <section class="left-content">
+        <div class="section screenshot">
+            <h2>Game Screenshot</h2>
+            <!-- 큰 이미지 화면 -->
+            <div class="game-screenshot-container">
+                <img id="main-screenshot" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.600x338.jpg?t=1729702978" alt="Game Screenshot">
+            </div>
+            <!-- 작은 썸네일 이미지들 -->
+            <div class="thumbnail-container">
+                <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ea21f7bbf4f79bada4554df5108d04b6889d3453.600x338.jpg?t=1729702978" alt="Thumbnail 1" onclick="changeImage(this)">
+                <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_e3aedb2ab36bba8cfe611b1e0eaa807e4bb2d742.600x338.jpg?t=1729702978" alt="Thumbnail 2" onclick="changeImage(this)">
+                <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.600x338.jpg?t=1729702978" alt="Thumbnail 3" onclick="changeImage(this)">
+            </div>
+        </div>
+
+        <div class="section description">
+            <h3>설명글</h3>
+            <b>이 농장은 여러분의 것입니다!</b>
+            <p>구불구불한 강과 역사적인 곡물 엘리베이터가 있는 북아메리카, 연못으로 둘러싸인 중부 유럽, 네온사인이 빛나는 항구 도시 근처의 논으로 가득한 동아시아 풍경을 배경으로 농장을 건설하세요.</p>
+        </div>
+
+        <div class="section keyword-rank">
+            <h3>감정별 키워드</h3>
+            <div class="keywords">
+                <div class="keyword">
+                    <b>긍정 키워드들</b>
+                    <ul>
+                        <li>재미있는 게임플레이</li>
+                        <li>아름다운 그래픽</li>
+                    </ul>
+                </div>
+                <div class="keyword">
+                    <b>부정 키워드들</b>
+                    <ul>
+                        <li>초반 난이도</li>
+                        <li>비싼 DLC</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="section video-summary">
+            <h3>리뷰 영상 + 요약</h3>
+            <div class="videos">
+                <div class="video">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/e47bdcafe3d1aec6ce1373d40f4e10bd315e09f24e65fd0e8d604446a99c6153?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Review Video Thumbnail">
+                    <p>영상 요약</p>
+                </div>
+                <div class="video">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/e47bdcafe3d1aec6ce1373d40f4e10bd315e09f24e65fd0e8d604446a99c6153?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Review Video Thumbnail">
+                    <p>영상 요약</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section similar-games">
+            <h3>유사 게임 추천</h3>
+            <div class="card-container">
+                <!-- 카드 1 -->
+                <div class="card">
+                    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1729702978" alt="Game Thumbnail">
+                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">2024년 1월 15일</span></p>
+                    <h3 class="text-lg font-semibold mb-3">게임 제목 1</h3>
+                    <div class="tags flex flex-wrap gap-2 mb-4">
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">RPG</span>
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">액션</span>
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">어드벤처</span>
+                    </div>
+                    <div class="pricing flex flex-col mb-4">
+                        <div class="flex justify-between items-center mb-1">
+                            <span class="text-red-500 text-base font-bold">-20%</span>
+                            <span class="line-through text-gray-400 text-base">₩50,000</span>
+                        </div>
+                        <span class="text-2xl font-bold text-green-400">₩40,000</span>
+                    </div>
+                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+                        구매하기
+                    </button>
+                </div>
+                <!-- 카드 2 -->
+                <div class="card">
+                    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1729702978" alt="Game Thumbnail">
+                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">2023년 11월 5일</span></p>
+                    <h3 class="text-lg font-semibold mb-3">게임 제목 2</h3>
+                    <div class="tags flex flex-wrap gap-2 mb-4">
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">FPS</span>
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">멀티플레이어</span>
+                    </div>
+                    <div class="pricing flex flex-col mb-4">
+                        <div class="flex justify-between items-center mb-1">
+                            <span class="text-red-500 text-base font-bold">-10%</span>
+                            <span class="line-through text-gray-400 text-base">₩30,000</span>
+                        </div>
+                        <span class="text-2xl font-bold text-green-400">₩27,000</span>
+                    </div>
+                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+                        구매하기
+                    </button>
+                </div>
+                <!-- 카드 3 -->
+                <div class="card">
+                    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1729702978" alt="Game Thumbnail">
+                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">2022년 8월 20일</span></p>
+                    <h3 class="text-lg font-semibold mb-3">게임 제목 3</h3>
+                    <div class="tags flex flex-wrap gap-2 mb-4">
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">어드벤처</span>
+                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">싱글플레이어</span>
+                    </div>
+                    <div class="pricing flex flex-col mb-4">
+                        <div class="flex justify-between items-center mb-1">
+                            <span class="text-red-500 text-base font-bold">-50%</span>
+                            <span class="line-through text-gray-400 text-base">₩60,000</span>
+                        </div>
+                        <span class="text-2xl font-bold text-green-400">₩30,000</span>
+                    </div>
+                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+                        구매하기
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+
+    <aside class="right-content">
+        <h2>게임 정보</h2>
+        <div class="header-image">
+            <img id="header-image" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.600x338.jpg?t=1729702978" alt="header-image">
+        </div>
+
+        <div class="price">
+            <ul>{% for game in games %}
+            {% if game.app_id == 105600 %}
+                <li><strong>App ID:</strong> {{ game.app_id }}</li>
+                <li><strong>Initial Price:</strong> {{ game.initial_price }}</li>
+            {% endif %}
+        {% endfor %}
+                <li><strong>정상가:</strong>
+                    a{{ game.initial_price }}</li>
+                <li><strong>할인가:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>할인율:</strong> 시뮬레이션</li>
+                <li><strong>구매하러 가기:</strong> <button class="purchase-btn" onclick="window.location.href='https://example.com/buy'">구매하러 가기</button></li>
+            </ul>
+        </div>
+
+        <div class="info">
+            <ul>
+                <li><strong>출시일:</strong> 2025년 5월</li>
+                <li><strong>개발사:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>배급사:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>언어:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>시스템 요구 사항:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>카테고리:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>장르:</strong> 시뮬레이션</li>
+                <li><strong>태그:</strong> Farming Corp</li>
+<!--                release_date, quarter, coming_soon-->
+<!--developers-->
+<!--publishers-->
+<!--supported_languages-->
+<!--pc_requirments-->
+<!--categories-->
+<!--genres-->
+<!--tags-->
+            </ul>
+        </div>
+    </aside>
+</main>
+
+<script>
+    // 작은 이미지를 클릭하면 큰 이미지가 바뀌도록 하는 함수
+    function changeImage(thumbnail) {
+        // 큰 이미지의 src를 작은 이미지의 src로 변경
+        const mainScreenshot = document.getElementById('main-screenshot');
+        mainScreenshot.src = thumbnail.src;
+    }
+</script>
+</body>
+</html>
