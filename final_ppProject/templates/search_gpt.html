@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>검색</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #1e1e1e;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        header img {
+            width: 150px;
+        }
+
+        header form {
+            display: inline-flex;
+            margin-top: 10px;
+        }
+
+        header input[type="search"] {
+            width: 400px;
+            padding: 10px;
+            border: none;
+            border-radius: 4px 0 0 4px;
+        }
+
+        header button {
+            background-color: #555;
+            border: none;
+            padding: 10px;
+            border-radius: 0 4px 4px 0;
+            cursor: pointer;
+        }
+
+        header button:hover {
+            background-color: #777;
+        }
+
+        .content {
+            display: flex;
+            gap: 30px;
+            width: 80%;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: #8f72a6;
+            padding: 20px;
+            border-radius: 8px;
+            color: white;
+        }
+        .main-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .game-item {
+            display: flex;
+            background-color: #333;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            color: white;
+            align-items: center;
+            margin: 20px;
+            gap: 15px;
+        }
+        .game {
+            display: flex;
+            gap: 20px;
+            }
+
+        .game-item img {
+            width: 120px;
+            height: 80px;
+            object-fit: cover;
+        }
+        .game-item .info {
+            display: flex;
+            flex-direction: column;
+            align-items: left;
+        }
+        .game-item h3 {
+            margin: 0;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .game-item p {
+            font-size: 14px;
+        }
+        .badge {
+            display: inline-block;
+            width: 60px;  /* 크기를 키움 */
+            height: 60px; /* 크기를 키움 */
+            border-radius: 50%;  /* 원 모양 유지 */
+            color: white;
+            text-align: center;
+            line-height: 60px;  /* 글씨가 수직 중앙에 위치하도록 조정 */
+            font-size: 18px;  /* 글씨 크기 키움 */
+            border: 2px solid transparent;  /* 기본 테두리는 투명, 두께를 3px로 설정 */
+            font-weight: lighter;  /* 글씨를 얇게 설정 */
+        }
+        .badge.green { border-color: green; }
+        .badge.red { border-color: red; }
+        .badge.yellow { border-color: yellow; }
+
+
+            .pricing {
+                display: flex;  /* flex 컨테이너로 변경 */
+                flex-direction: row;  /* 세로 방향으로 정렬 */
+                justify-content: center;  /* 세로 가운데 정렬 */
+                align-items: flex-start;  /* 좌측 정렬 */
+                height: 100%;  /* 부모 요소에 맞게 높이를 차지하도록 설정 */
+            }
+
+.discount, .price-info {
+    margin: 5px 0;  /* 세로 간격을 좀 더 여유롭게 */
+}
+            .discount {
+                font-size: 16px;
+                font-weight: bold;
+                color: red;
+                align-items: center;
+            }
+
+            .price-info {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+            }
+
+            .original-price {
+                text-decoration: line-through;
+                font-size: 16px;
+                color: #999;
+            }
+
+            .final-price {
+                font-size: 18px;
+                font-weight: bold;
+                color: #00ff00; /* Green color for the discounted price */
+            }
+
+
+        .filter-section select, .filter-section input[type="range"] {
+            width: 100%;
+            margin-bottom: 10px;
+            padding: 5px;
+            background-color: #333;
+            border: 1px solid #444;
+            color: white;
+            border-radius: 5px;
+        }
+
+        .range-label {
+            font-size: 14px;
+            margin-bottom: 5px;
+            color: white;
+        }
+
+        .filter-section fieldset {
+            border: none;
+            margin-bottom: 5px;
+        }
+
+        .filter-section fieldset legend {
+            font-size: 16px;
+            color: white;
+        }
+
+        .filter-section label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        /* 검색창의 Search 버튼 */
+        .btn-search-bar {
+            padding: 10px 20px;
+            background-color: #444;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .btn-search-bar:hover {
+            background-color: #555; /* 호버 시 색상 변화 */
+        }
+
+        /* 검색옵션의 Search 버튼 */
+        .button-group .btn-search-options {
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            background-color: #444;
+            color: white;
+            border: none;
+        }
+
+        .button-group .btn-search-options:hover {
+            background-color: #d19636; /* 호버 시 색상 변화 */
+        }
+
+        /* 검색옵션의 Reset 버튼 */
+        .button-group .btn-reset {
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #555;
+            color: white;
+            border: none;
+        }
+
+        .button-group .btn-reset:hover {
+            background-color: #d19636; /* 호버 시 색상 변화 */
+        }
+
+        /* 버튼 그룹 가운데 정렬 */
+        .button-group {
+            display: flex;
+            justify-content: center; /* 버튼들을 가운데 정렬 */
+            gap: 20px; /* 버튼들 간의 간격 */
+            margin-top: 20px; /* 버튼 그룹 상단 마진 */
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header with logo and search bar -->
+        <header>
+	{% load static %}
+    <img src="{% static 'imgs/logo.png' %}" alt="Logo" style="width: 300px; height: auto;">
+
+   <form>
+       <input type="search" placeholder="Search for games" aria-label="Search games">
+       <button type="submit">Seach</button>
+   </form>
+</header>
+
+        <!-- Main Content with Sidebar and Game List -->
+        <div class="content">
+            <!-- Sidebar with filter options -->
+            <div class="sidebar filter-section">
+                <h2>Search Options</h2>
+                <form>
+                    <label for="sort">정렬순</label>
+                    <select id="sort">
+                        <option value="">최신순</option>
+                        <option value="">높은가격</option>
+                        <option value="">낮은가격</option>
+                        <option value="">높은할인율</option>
+                        <option value="">낮은할인율</option>
+                    </select>
+
+                    <label for="players">플레이어 수</label>
+                    <select id="players">
+                        <option value="">싱글플레이어</option>
+                        <option value="">멀티플레이어</option>
+                        <option value="">온라인협동</option>
+                    </select>
+
+                    <label for="tags">태그</label>
+                    <select id="tags">
+<!--                        태그 수만큼 반복문으로-->
+                        <option value="">Select Tags</option>
+                    </select>
+
+                    <!-- Price Range -->
+                    <legend>가격</legend>
+                    <fieldset>
+                        <input type="range" id="priceRange" min="0" max="100" step="1" value="50">
+                        <span class="range-label">Value: <span id="priceValue">50</span></span>
+                        <label> <input type="checkbox" /> 무료게임 </label>
+                    </fieldset>
+
+                    <legend>출시 여부</legend>
+                    <fieldset>
+                        <label>
+                            <input type="checkbox" /> 출시됨
+                        </label>
+                        <label>
+                            <input type="checkbox" /> 출시 예정
+                        </label>
+                    </fieldset>
+
+                    <!-- Search and Reset buttons -->
+                    <div class="button-group">
+                        <button type="submit" class="btn-search-options">검색</button> <!-- 검색옵션의 버튼 -->
+                        <button type="reset" class="btn-reset">초기화</button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Main content area with game list -->
+            <div class="main-content">
+                <h2>Total: 2,863</h2>
+
+                <!-- Game List -->
+                <div class="game-item">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/edbfdc2083be01c13517995ede4b6311a1f91887ef6d6e18cbddbef8615ade90?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Football Manager 25">
+                    <div class="game">
+                        <div class="percent">
+                            <span class="badge green">98</span>
+                        </div>
+
+                        <div class="info">
+                            <h3>Football Manager 25</h3>
+                            <p>SEGA | Simulation | Korean</p>
+                        </div>
+
+                        <div class="pricing">
+                            <div class="discount">15% off</div>
+                            <div class="price-info">
+                                <div class="original-price">59,000</div>
+                                <div class="final-price">50,000</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="game-item">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/edbfdc2083be01c13517995ede4b6311a1f91887ef6d6e18cbddbef8615ade90?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Football Manager 25">
+                    <div class="game">
+                        <div class="percent">
+                            <span class="badge yellow">50</span>
+                        </div>
+
+                        <div class="info">
+                            <h3>Football Manager 25</h3>
+                            <p>SEGA | Simulation | Korean</p>
+                        </div>
+
+                        <div class="pricing">
+                            <div class="discount">15% off</div>
+                            <div class="price-info">
+                                <div class="original-price">59,000</div>
+                                <div class="final-price">50,000</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="game-item">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/edbfdc2083be01c13517995ede4b6311a1f91887ef6d6e18cbddbef8615ade90?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Football Manager 25">
+                    <div class="game">
+                        <div class="percent">
+                            <span class="badge red">30</span>
+                        </div>
+
+                        <div class="info">
+                            <h3>Football Manager 25</h3>
+                            <p>SEGA | Simulation | Korean</p>
+                        </div>
+
+                        <div class="pricing">
+                            <div class="discount">15% off</div>
+                            <div class="price-info">
+                                <div class="original-price">59,000</div>
+                                <div class="final-price">50,000</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- More game items can be added similarly -->
+            </div>
+        </div>
+    </div>
+
+<script>
+    const priceRange = document.getElementById('priceRange');
+    const priceValue = document.getElementById('priceValue');
+
+    // 페이지 로드 시 초기 값 설정
+    priceValue.textContent = priceRange.value;
+
+    // 슬라이더 값이 변경될 때마다 실행되는 함수
+    priceRange.addEventListener('input', function() {
+        priceValue.textContent = priceRange.value;  // 현재 값을 업데이트
+    });
+</script>
+</body>
+
+
+</html>

@@ -1,0 +1,194 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            color: white;
+            background-color: #1e1e1e;
+            margin: 0;
+        }
+
+        header {
+            text-align: center;
+            background-color: #333;
+            padding: 20px 0;
+        }
+
+        header img {
+            width: 150px;
+        }
+
+        header form {
+            display: inline-flex;
+            margin-top: 10px;
+        }
+
+        header input[type="search"] {
+            width: 400px;
+            padding: 10px;
+            border: none;
+            border-radius: 4px 0 0 4px;
+        }
+
+        header button {
+            background-color: #555;
+            border: none;
+            padding: 10px;
+            border-radius: 0 4px 4px 0;
+            cursor: pointer;
+        }
+
+        main {
+            display: flex;
+            margin: 20px;
+        }
+
+        .left-content {
+            flex: 3;
+            padding-right: 20px;
+        }
+
+        .right-content {
+            flex: 1;
+            background-color: #292929;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        h1, h2, h3 {
+            color: #00bfff;
+        }
+
+        .keywords {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .keywords div {
+            width: 45%;
+        }
+
+        .video-summary, .similar-games img {
+            width: 100%;
+            border-radius: 8px;
+        }
+
+        .similar-games img {
+            margin-top: 10px;
+        }
+
+        .right-content ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .right-content li {
+            margin-bottom: 10px;
+        }
+
+        /* Similar Games Section Styling */
+        .similar-games {
+            margin-top: 20px;
+        }
+
+        .card-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 5px;
+            overflow-x: auto;
+        }
+
+        .card {
+            background-color: #333;
+            border: 1px solid #555;
+            border-radius: 8px;
+            width: 300px;
+            padding: 20px;
+            color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        .card h3 {
+            font-size: 1.25em;
+            margin-bottom: 10px;
+        }
+
+        .card .tags {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .card .tags span {
+            background-color: #444;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 0.875em;
+        }
+
+        .card .pricing {
+            margin-bottom: 10px;
+        }
+
+        .card .pricing .old-price {
+            text-decoration: line-through;
+            color: #aaa;
+        }
+
+        .card .pricing .new-price {
+            font-size: 1.5em;
+            color: #00bfff;
+        }
+
+        .card button {
+            background-color: #555;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .card button:hover {
+            background-color: #777;
+        }
+        /* Game Screenshot 섹션의 큰 이미지를 가운데로 정렬 */
+        .game-screenshot-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .game-screenshot {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        /* 작은 이미지들 스타일 */
+        .thumbnail-container {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .thumbnail-container img {
+            width: 100px;
+            height: auto;
+            cursor: pointer;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+
+        .thumbnail-container img:hover {
+            transform: scale(1.1);
+        }
