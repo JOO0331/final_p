@@ -249,11 +249,11 @@
         <!-- Header with logo and search bar -->
         <header>
 	{% load static %}
-    <a href="{% url 'main' %}"><img src="{% static 'imgs/logo.png' %}" alt="Logo" style="width: 300px; height: auto;"></a>
+    <img src="{% static 'imgs/logo.png' %}" alt="Logo" style="width: 300px; height: auto;">
 
-    <form action="{% url 'search' %}" method="GET">
-        <input type="search" name="search" placeholder="Search for games" aria-label="Search games">
-        <button type="submit">Search</button>
+    <form>
+        <input type="search" placeholder="Search for games" aria-label="Search games">
+        <button type="submit">Seach</button>
     </form>
 </header>
 
@@ -313,45 +313,73 @@
 
             <!-- Main content area with game list -->
             <div class="main-content">
+                <h2>Total: 2,863</h2>
 
                 <!-- Game List -->
-                {% for game in games %}
-                <div class="game-item" onclick="location.href='{% url 'dashboard' game.app_id %}'" style="cursor: pointer;">
-                    <img src="{{ game.capsule_image }}" alt="{{ game.name }}">
+                <div class="game-item">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/edbfdc2083be01c13517995ede4b6311a1f91887ef6d6e18cbddbef8615ade90?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Football Manager 25">
                     <div class="game">
                         <div class="percent">
                             <span class="badge green">98</span>
                         </div>
 
                         <div class="info">
-                            <h3>{{ game.name }}</h3>
-                            <p>{{ game.tags }} </p>
+                            <h3>Football Manager 25</h3>
+                            <p>SEGA | Simulation | Korean</p>
                         </div>
 
                         <div class="pricing">
-                            {% if game.discount_percent > 0 %}
-                                <div class="discount">{{ game.discount_percent }}% off</div>
-                            {% endif %}
+                            <div class="discount">15% off</div>
                             <div class="price-info">
-                                {% if game.initial_price_int > 0 %}
-                                    {% if game.discount_percent > 0 %}
-                                        <div class="original-price">{{ game.initial_price_int }}₩</div>
-                                        <div class="final-price">{{ game.final_price_int }}₩</div>
-                                    {% else %}
-                                        <div class="final-price">{{ game.final_price_int }}₩</div>
-                                    {% endif %}
-                                {% else %}
-                                    <div class="final-price">Free</div>
-                                {% endif %}
+                                <div class="original-price">59,000</div>
+                                <div class="final-price">50,000</div>
                             </div>
                         </div>
                     </div>
                 </div>
-                {% empty %}
-                <div class="no-results">
-                    <p>검색 결과가 없습니다.</p>
+                <div class="game-item">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/edbfdc2083be01c13517995ede4b6311a1f91887ef6d6e18cbddbef8615ade90?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Football Manager 25">
+                    <div class="game">
+                        <div class="percent">
+                            <span class="badge yellow">50</span>
+                        </div>
+
+                        <div class="info">
+                            <h3>Football Manager 25</h3>
+                            <p>SEGA | Simulation | Korean</p>
+                        </div>
+
+                        <div class="pricing">
+                            <div class="discount">15% off</div>
+                            <div class="price-info">
+                                <div class="original-price">59,000</div>
+                                <div class="final-price">50,000</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                {% endfor %}
+                <div class="game-item">
+                    <img src="https://cdn.builder.io/api/v1/image/assets/6dd88f36d1f84f6ea560ef561d03435f/edbfdc2083be01c13517995ede4b6311a1f91887ef6d6e18cbddbef8615ade90?apiKey=6dd88f36d1f84f6ea560ef561d03435f&" alt="Football Manager 25">
+                    <div class="game">
+                        <div class="percent">
+                            <span class="badge red">30</span>
+                        </div>
+
+                        <div class="info">
+                            <h3>Football Manager 25</h3>
+                            <p>SEGA | Simulation | Korean</p>
+                        </div>
+
+                        <div class="pricing">
+                            <div class="discount">15% off</div>
+                            <div class="price-info">
+                                <div class="original-price">59,000</div>
+                                <div class="final-price">50,000</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- More game items can be added similarly -->
             </div>
         </div>
     </div>
