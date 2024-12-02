@@ -104,17 +104,14 @@ main {
     gap: 10px;
     margin-top: 10px;
     width: 100%;
-    flex-wrap: wrap;
 }
 
 .thumbnail-container img {
-    width: calc(16.666% - 10px);
-    min-width: 100px;
+    width: 100px;
     height: auto;
     cursor: pointer;
     border-radius: 8px;
     transition: transform 0.3s ease;
-    margin-bottom: 10px;
 }
 
 .thumbnail-container img:hover {
@@ -314,31 +311,6 @@ button.purchase-btn:hover {
     background-color: #2980b9;
 }
 
-.info-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin: 5px 0;
-}
-
-.info-tag {
-    background-color: #444;
-    padding: 5px 10px;
-    border-radius: 4px;
-    font-size: 0.9em;
-    white-space: nowrap;
-}
-
-.info-section {
-    margin-bottom: 15px;
-}
-
-.info-section-title {
-    font-weight: bold;
-    margin-right: 10px;
-    color: #2c3e50;
-}
-
     </style>
 </head>
 
@@ -346,16 +318,16 @@ button.purchase-btn:hover {
 <div class="container">
     <header>
         {% load static %}
-        <a href="{% url 'main' %}"><img src="{% static 'imgs/logo.png' %}" alt="Logo" style="width: 300px; height: auto;"></a>
-        <form action="{% url 'search' %}" method="GET">
-            <input type="search" name="search" placeholder="Search for games" aria-label="Search games">
-            <button type="submit">Search</button>
+        <img src="{% static 'imgs/logo.png' %}" alt="Logo" style="width: 300px; height: auto;">
+        <form>
+            <input type="search" placeholder="Search for games" aria-label="Search games">
+            <button type="submit">Seach</button>
         </form>
     </header>
 </div>
 
 <div class="section">
-        <h1>ㅁ{{ game.name }}</h1>
+        <h1>ㅁ{{ game.name_eng }}</h1>
     </div>
 
 <main>
@@ -364,19 +336,20 @@ button.purchase-btn:hover {
             <h2>Game Screenshot</h2>
             <!-- 큰 이미지 화면 -->
             <div class="game-screenshot-container">
-                <img id="main-screenshot" src="{{ game.screenshots.0.path_full }}" alt="Game Screenshot" style="max-width: 100%; height: auto;">
+                <img id="main-screenshot" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.600x338.jpg?t=1729702978" alt="Game Screenshot">
             </div>
             <!-- 작은 썸네일 이미지들 -->
             <div class="thumbnail-container">
-                {% for screenshot in game.screenshots %}
-                <img src="{{ screenshot.path_full }}" alt="Thumbnail {{ forloop.counter }}" onclick="changeImage(this)" style="width: 100px; height: auto;">
-                {% endfor %}
+                <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ea21f7bbf4f79bada4554df5108d04b6889d3453.600x338.jpg?t=1729702978" alt="Thumbnail 1" onclick="changeImage(this)">
+                <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_e3aedb2ab36bba8cfe611b1e0eaa807e4bb2d742.600x338.jpg?t=1729702978" alt="Thumbnail 2" onclick="changeImage(this)">
+                <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.600x338.jpg?t=1729702978" alt="Thumbnail 3" onclick="changeImage(this)">
             </div>
         </div>
 
         <div class="section description">
             <h3>설명글</h3>
-            <p>{{game.short_description}}</p>
+            <b>이 농장은 여러분의 것입니다!</b>
+            <p>구불구불한 강과 역사적인 곡물 엘리베이터가 있는 북아메리카, 연못으로 둘러싸인 중부 유럽, 네온사인이 빛나는 항구 도시 근처의 논으로 가득한 동아시아 풍경을 배경으로 농장을 건설하세요.</p>
         </div>
 
         <div class="section keyword-rank">
@@ -487,88 +460,43 @@ button.purchase-btn:hover {
     <aside class="right-content">
         <h2>게임 정보</h2>
         <div class="header-image">
-            <img id="header-image" src="{{ game.header_image }}" alt="header-image">
+            <img id="header-image" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.600x338.jpg?t=1729702978" alt="header-image">
         </div>
 
         <div class="price">
-            <ul>
-                <li><strong>게임 이름:</strong> {{ game.name }}</li>
-                {% if game.final_price_int == 0 %}
-                    <li><strong>가격:</strong> Free</li>
-                {% else %}
-                    {% if game.discount_percent > 0 %}
-                        <li><strong>할인율:</strong> {{ game.discount_percent }}% Off</li>
-                        <li><strong>정상가:</strong> {{ game.initial_price_int }} ₩</li>
-                        <li><strong>할인가:</strong> {{ game.final_price_int }} ₩</li>
-                    {% else %}
-                        <li><strong>가격:</strong> {{ game.final_price_int }} ₩</li>
-                    {% endif %}
-                {% endif %}
-                <li><strong>구매하러 가기:</strong> <button class="purchase-btn" onclick="window.location.href='https://store.steampowered.com/app/{{ game.app_id }}/'">구매하러 가기</button></li>
+            <ul>{% for game in games %}
+            {% if game.app_id == 105600 %}
+                <li><strong>App ID:</strong> {{ game.app_id }}</li>
+                <li><strong>Initial Price:</strong> {{ game.initial_price }}</li>
+            {% endif %}
+        {% endfor %}
+                <li><strong>정상가:</strong>
+                    a{{ game.initial_price }}</li>
+                <li><strong>할인가:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>할인율:</strong> 시뮬레이션</li>
+                <li><strong>구매하러 가기:</strong> <button class="purchase-btn" onclick="window.location.href='https://example.com/buy'">구매하러 가기</button></li>
             </ul>
         </div>
 
         <div class="info">
-            <div class="info-section">
-                <div class="info-section-title">카테고리:</div>
-                <div class="info-list">
-                    {% for category in game.categories %}
-                        <span class="info-tag">{{ category.description }}</span>
-                    {% endfor %}
-                </div>
-            </div>
-
-            <div class="info-section">
-                <div class="info-section-title">장르:</div>
-                <div class="info-list">
-                    {% for genre in game.genres %}
-                        <span class="info-tag">{{ genre.description }}</span>
-                    {% endfor %}
-                </div>
-            </div>
-
-            <div class="info-section">
-                <div class="info-section-title">태그:</div>
-                <div class="info-list">
-                    {% for tag in game.tags %}
-                        <span class="info-tag">{{ tag }}</span>
-                    {% endfor %}
-                </div>
-            </div>
-
-            <div class="info-section">
-                <div class="info-section-title">지원 언어:</div>
-                <div class="info-list">
-                    {% for language in game.supported_languages %}
-                        <span class="info-tag">{{ language }}</span>
-                    {% endfor %}
-                </div>
-            </div>
-
-            <div class="info-section">
-                <div class="info-section-title">출시일:</div>
-                <div class="info-list">
-                        <span class="info-tag">{{ game.release_date }}</span>
-                </div>
-            </div>
-
-            <div class="info-section">
-                <div class="info-section-title">개발사:</div>
-                <div class="info-list">
-                    {% for developer in game.developers %}
-                        <span class="info-tag">{{ developer }}</span>
-                    {% endfor %}
-                </div>
-            </div>
-
-            <div class="info-section">
-                <div class="info-section-title">배급사:</div>
-                <div class="info-list">
-                    {% for publisher in game.publishers %}
-                        <span class="info-tag">{{ publisher }}</span>
-                    {% endfor %}
-                </div>
-            </div>
+            <ul>
+                <li><strong>출시일:</strong> 2025년 5월</li>
+                <li><strong>개발사:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>배급사:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>언어:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>시스템 요구 사항:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>카테고리:</strong> PC, Xbox, PlayStation</li>
+                <li><strong>장르:</strong> 시뮬레이션</li>
+                <li><strong>태그:</strong> Farming Corp</li>
+<!--                release_date, quarter, coming_soon-->
+<!--developers-->
+<!--publishers-->
+<!--supported_languages-->
+<!--pc_requirments-->
+<!--categories-->
+<!--genres-->
+<!--tags-->
+            </ul>
         </div>
     </aside>
 </main>
