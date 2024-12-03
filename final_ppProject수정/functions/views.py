@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from .models import Game
 import re
+import json
+import random
 
 def main_view(request):
     games = Game.objects.all()
@@ -41,8 +43,28 @@ def dashboard_view(request, app_id):
     
     if isinstance(game.publishers, str):
         game.publishers = [pub.strip() for pub in game.publishers.split(',')]
+
+    recommendations = game.recommendations
     
-    return render(request, 'dash_gpt.html', {'game': game})
+    first_id = recommendations[0]['app_id']
+    first_game = Game.objects.get(app_id=first_id)
+    first_game.final_price_int = int(float(str(first_game.final_price)))
+    first_game.initial_price_int = int(float(str(first_game.initial_price)))
+    
+    remain_ids = [rec['app_id'] for rec in recommendations[1:]]
+    random_ids = random.sample(remain_ids, 2)
+    random_games = [Game.objects.get(app_id=rec_id) for rec_id in random_ids]
+    for random_game in random_games:
+        random_game.final_price_int = int(float(str(random_game.final_price)))
+        random_game.initial_price_int = int(float(str(random_game.initial_price)))
+    
+    context = {
+        'game': game,
+        'first_recommendation': first_game,
+        'random_recommendations': random_games
+    }
+    
+    return render(request, 'dash_gpt.html', context)
 
 
 # Create your views here.

@@ -27,7 +27,7 @@ class Game(models.Model):
     screenshots = models.JSONField(default=list)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-    # recommendations = models.JSONField(default=list)
+    recommendations = models.JSONField(default=list)
 
     # class Meta:
     #     indexes = [
@@ -65,17 +65,17 @@ class Game(models.Model):
 #     review_text = models.TextField()
 #     updated_at = models.DateTimeField(db_index=True)
 #     created_at = models.DateTimeField(auto_now_add=True, db_index=True)
-#
-#     # class Meta:
-#     #     indexes = [
-#     #         models.Index(fields=['game', 'review_id']),
-#     #         models.Index(fields=['game', 'created_at']),
-#     #         models.Index(fields=['game', 'updated_at']),
-#     #     ]
-#
+
+#     class Meta:
+#         indexes = [
+#             models.Index(fields=['game', 'review_id']),
+#             models.Index(fields=['game', 'created_at']),
+#             models.Index(fields=['game', 'updated_at']),
+#         ]
+
 #     def __str__(self):
 #         return f"Review {self.review_id} for {self.game.name}"
-#
+# #
 # #리뷰 감성분석 내용
 # class ReviewAnalysis(models.Model):
 #     game = models.OneToOneField(Game, on_delete=models.CASCADE, related_name='review_analysis')

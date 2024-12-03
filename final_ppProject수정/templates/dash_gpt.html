@@ -142,6 +142,7 @@ main {
     padding: 20px;
     color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
 }
 
 .card img {
@@ -417,66 +418,63 @@ button.purchase-btn:hover {
             <h3>유사 게임 추천</h3>
             <div class="card-container">
                 <!-- 카드 1 -->
-                <div class="card">
-                    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1729702978" alt="Game Thumbnail">
-                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">2024년 1월 15일</span></p>
-                    <h3 class="text-lg font-semibold mb-3">게임 제목 1</h3>
+                <div class="card" onclick="window.location.href='{% url 'dashboard' first_recommendation.app_id %}'">
+                    <img src="{{ first_recommendation.header_image }}" alt="Game Thumbnail">
+                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">{{ first_recommendation.release_date }}</span></p>
+                    <h3 class="text-lg font-semibold mb-3">{{ first_recommendation.name }}</h3>
                     <div class="tags flex flex-wrap gap-2 mb-4">
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">RPG</span>
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">액션</span>
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">어드벤처</span>
+                        {% for genre in first_recommendation.genres|slice:":3" %}
+                            <span class="bg-gray-700 text-sm px-3 py-1 rounded">{{ genre.description }}</span>
+                        {% endfor %}
                     </div>
                     <div class="pricing flex flex-col mb-4">
-                        <div class="flex justify-between items-center mb-1">
-                            <span class="text-red-500 text-base font-bold">-20%</span>
-                            <span class="line-through text-gray-400 text-base">₩50,000</span>
-                        </div>
-                        <span class="text-2xl font-bold text-green-400">₩40,000</span>
+                        {% if first_recommendation.final_price_int == 0 %}
+                            <span class="text-2xl font-bold text-green-400">Free</span>
+                        {% else %}
+                            {% if first_recommendation.discount_percent > 0 %}
+                                <div class="flex justify-between items-center mb-1">
+                                    <span class="text-red-500 text-base font-bold">-{{ first_recommendation.discount_percent }}%</span>
+                                    <span class="line-through text-gray-400 text-base">₩{{ first_recommendation.initial_price_int }}</span>
+                                </div>
+                            {% endif %}
+                            <span class="text-2xl font-bold text-green-400">₩{{ first_recommendation.final_price_int }}</span>
+                        {% endif %}
                     </div>
-                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
+                            onclick="window.location.href='https://store.steampowered.com/app/{{ first_recommendation.app_id }}/'">
                         구매하기
                     </button>
                 </div>
-                <!-- 카드 2 -->
-                <div class="card">
-                    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1729702978" alt="Game Thumbnail">
-                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">2023년 11월 5일</span></p>
-                    <h3 class="text-lg font-semibold mb-3">게임 제목 2</h3>
+                <!-- 카드 2, 3 -->
+                {% for rec in random_recommendations %}
+                <div class="card" onclick="window.location.href='{% url 'dashboard' rec.app_id %}'">
+                    <img src="{{ rec.header_image }}" alt="Game Thumbnail">
+                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">{{ rec.release_date }}</span></p>
+                    <h3 class="text-lg font-semibold mb-3">{{ rec.name }}</h3>
                     <div class="tags flex flex-wrap gap-2 mb-4">
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">FPS</span>
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">멀티플레이어</span>
+                        {% for genre in rec.genres|slice:":3" %}
+                            <span class="bg-gray-700 text-sm px-3 py-1 rounded">{{ genre.description }}</span>
+                        {% endfor %}
                     </div>
                     <div class="pricing flex flex-col mb-4">
-                        <div class="flex justify-between items-center mb-1">
-                            <span class="text-red-500 text-base font-bold">-10%</span>
-                            <span class="line-through text-gray-400 text-base">₩30,000</span>
-                        </div>
-                        <span class="text-2xl font-bold text-green-400">₩27,000</span>
+                        {% if rec.final_price_int == 0 %}
+                            <span class="text-2xl font-bold text-green-400">Free</span>
+                        {% else %}
+                            {% if rec.discount_percent > 0 %}
+                                <div class="flex justify-between items-center mb-1">
+                                    <span class="text-red-500 text-base font-bold">-{{ rec.discount_percent }}%</span>
+                                    <span class="line-through text-gray-400 text-base">₩{{ rec.initial_price_int }}</span>
+                                </div>
+                            {% endif %}
+                            <span class="text-2xl font-bold text-green-400">₩{{ rec.final_price_int }}</span>
+                        {% endif %}
                     </div>
-                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
+                            onclick="window.location.href='https://store.steampowered.com/app/{{ rec.app_id }}/'">
                         구매하기
                     </button>
                 </div>
-                <!-- 카드 3 -->
-                <div class="card">
-                    <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_184x69.jpg?t=1729702978" alt="Game Thumbnail">
-                    <p class="text-sm text-gray-400 mb-2">출시일: <span class="text-white">2022년 8월 20일</span></p>
-                    <h3 class="text-lg font-semibold mb-3">게임 제목 3</h3>
-                    <div class="tags flex flex-wrap gap-2 mb-4">
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">어드벤처</span>
-                        <span class="bg-gray-700 text-sm px-3 py-1 rounded">싱글플레이어</span>
-                    </div>
-                    <div class="pricing flex flex-col mb-4">
-                        <div class="flex justify-between items-center mb-1">
-                            <span class="text-red-500 text-base font-bold">-50%</span>
-                            <span class="line-through text-gray-400 text-base">₩60,000</span>
-                        </div>
-                        <span class="text-2xl font-bold text-green-400">₩30,000</span>
-                    </div>
-                    <button class="mt-auto px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
-                        구매하기
-                    </button>
-                </div>
+                {% endfor %}
             </div>
         </div>
 
