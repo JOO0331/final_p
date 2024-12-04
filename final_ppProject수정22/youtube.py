@@ -18,7 +18,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # API 키 객체 생성
-DEVELOPER_KEY = "AIzaSyD3uYCjjcN2FV-LlFG2GhdmZkgonWNUD-U"
+DEVELOPER_KEY = ""
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
@@ -35,7 +35,7 @@ def get_youtube_transcript(video_id):
     return transcript
 
 def summarize_with_genai(text):
-    api_key = "AIzaSyCepvS94uzGYtFB_8Gq-zlXv2WGkMknmiw"
+    api_key = ""
     genai.configure(api_key=api_key)
 
     prompt= f"다음 내용은 게임리뷰에 관한 영상의 자막이야. 이 내용을 요약해서 게임 구매를 고민하는 사람에게 적절한 정보를 5줄~7줄로 내용을 정리해줘.: {text}"
